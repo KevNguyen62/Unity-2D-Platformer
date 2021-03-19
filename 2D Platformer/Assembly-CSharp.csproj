@@ -72,6 +72,7 @@
     <Compile Include="Assets\Scripts\Player Scripts\PlayerCamera.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\PortalTeleporter.cs" />
+    <Compile Include="Assets\Scripts\Projectile.cs" />
     <Compile Include="Assets\Scripts\Weapon.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
