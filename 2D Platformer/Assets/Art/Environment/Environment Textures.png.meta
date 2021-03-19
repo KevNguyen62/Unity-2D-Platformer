@@ -1,0 +1,4407 @@
+fileFormatVersion: 2
+guid: aba690269eb8b68419d061ec4a8b6264
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4747685307942977081
+    second: s4m_ur4i_huge-assetpack-tilemap_0
+  - first:
+      213: 1949615966641895904
+    second: s4m_ur4i_huge-assetpack-tilemap_1
+  - first:
+      213: -1253083713736310529
+    second: s4m_ur4i_huge-assetpack-tilemap_2
+  - first:
+      213: 8215030772735776017
+    second: s4m_ur4i_huge-assetpack-tilemap_3
+  - first:
+      213: -4230754953634570184
+    second: s4m_ur4i_huge-assetpack-tilemap_4
+  - first:
+      213: -5278196518316114769
+    second: s4m_ur4i_huge-assetpack-tilemap_5
+  - first:
+      213: -5489629921847468251
+    second: s4m_ur4i_huge-assetpack-tilemap_6
+  - first:
+      213: 2944549369556289943
+    second: s4m_ur4i_huge-assetpack-tilemap_7
+  - first:
+      213: 5087484611084341502
+    second: s4m_ur4i_huge-assetpack-tilemap_8
+  - first:
+      213: -7428975184089925353
+    second: s4m_ur4i_huge-assetpack-tilemap_9
+  - first:
+      213: 943451760117101268
+    second: s4m_ur4i_huge-assetpack-tilemap_10
+  - first:
+      213: 3899028612549396029
+    second: s4m_ur4i_huge-assetpack-tilemap_11
+  - first:
+      213: -8825774485309438930
+    second: s4m_ur4i_huge-assetpack-tilemap_12
+  - first:
+      213: 7446723708209216147
+    second: s4m_ur4i_huge-assetpack-tilemap_13
+  - first:
+      213: 7494909899091501916
+    second: s4m_ur4i_huge-assetpack-tilemap_14
+  - first:
+      213: 714994525101315927
+    second: s4m_ur4i_huge-assetpack-tilemap_15
+  - first:
+      213: -9073569621214632834
+    second: s4m_ur4i_huge-assetpack-tilemap_16
+  - first:
+      213: -4564131931413680428
+    second: s4m_ur4i_huge-assetpack-tilemap_17
+  - first:
+      213: -4504810556741990661
+    second: s4m_ur4i_huge-assetpack-tilemap_18
+  - first:
+      213: -6680442721159767538
+    second: s4m_ur4i_huge-assetpack-tilemap_19
+  - first:
+      213: 1482655703849653528
+    second: s4m_ur4i_huge-assetpack-tilemap_20
+  - first:
+      213: -832606333185250826
+    second: s4m_ur4i_huge-assetpack-tilemap_21
+  - first:
+      213: -8272531995874051036
+    second: s4m_ur4i_huge-assetpack-tilemap_22
+  - first:
+      213: -4391291703542488212
+    second: s4m_ur4i_huge-assetpack-tilemap_23
+  - first:
+      213: -8991458583446013604
+    second: s4m_ur4i_huge-assetpack-tilemap_24
+  - first:
+      213: -2112963459239383177
+    second: s4m_ur4i_huge-assetpack-tilemap_25
+  - first:
+      213: 6808372308563740956
+    second: s4m_ur4i_huge-assetpack-tilemap_26
+  - first:
+      213: -5448469655070418288
+    second: s4m_ur4i_huge-assetpack-tilemap_27
+  - first:
+      213: 1513049344846565230
+    second: s4m_ur4i_huge-assetpack-tilemap_28
+  - first:
+      213: 1090568242072965784
+    second: s4m_ur4i_huge-assetpack-tilemap_29
+  - first:
+      213: -95571996146606688
+    second: s4m_ur4i_huge-assetpack-tilemap_30
+  - first:
+      213: -7190725680037455079
+    second: s4m_ur4i_huge-assetpack-tilemap_31
+  - first:
+      213: -8221401664659573336
+    second: s4m_ur4i_huge-assetpack-tilemap_32
+  - first:
+      213: 1694688109414668894
+    second: s4m_ur4i_huge-assetpack-tilemap_33
+  - first:
+      213: 6605722052723966743
+    second: s4m_ur4i_huge-assetpack-tilemap_34
+  - first:
+      213: -7595723807872526290
+    second: s4m_ur4i_huge-assetpack-tilemap_35
+  - first:
+      213: 5905454390297544287
+    second: s4m_ur4i_huge-assetpack-tilemap_42
+  - first:
+      213: -4096987349404426510
+    second: s4m_ur4i_huge-assetpack-tilemap_43
+  - first:
+      213: 8838082252336775439
+    second: s4m_ur4i_huge-assetpack-tilemap_44
+  - first:
+      213: -3410166783389846982
+    second: s4m_ur4i_huge-assetpack-tilemap_45
+  - first:
+      213: 4832608407640380210
+    second: s4m_ur4i_huge-assetpack-tilemap_46
+  - first:
+      213: 8054672770019502137
+    second: s4m_ur4i_huge-assetpack-tilemap_47
+  - first:
+      213: -425926609853426696
+    second: s4m_ur4i_huge-assetpack-tilemap_48
+  - first:
+      213: -9091541963829596303
+    second: s4m_ur4i_huge-assetpack-tilemap_49
+  - first:
+      213: -134519404745805840
+    second: s4m_ur4i_huge-assetpack-tilemap_50
+  - first:
+      213: 8684816428375106527
+    second: s4m_ur4i_huge-assetpack-tilemap_51
+  - first:
+      213: -8814632418298717101
+    second: s4m_ur4i_huge-assetpack-tilemap_52
+  - first:
+      213: 5062759870555655176
+    second: s4m_ur4i_huge-assetpack-tilemap_53
+  - first:
+      213: 2163261127341422365
+    second: s4m_ur4i_huge-assetpack-tilemap_54
+  - first:
+      213: -2376534595035242625
+    second: s4m_ur4i_huge-assetpack-tilemap_55
+  - first:
+      213: -5205192079802752196
+    second: s4m_ur4i_huge-assetpack-tilemap_56
+  - first:
+      213: 4256327126728989317
+    second: s4m_ur4i_huge-assetpack-tilemap_57
+  - first:
+      213: 525109056206160825
+    second: s4m_ur4i_huge-assetpack-tilemap_58
+  - first:
+      213: -4364119343311390040
+    second: s4m_ur4i_huge-assetpack-tilemap_59
+  - first:
+      213: 404883593402809011
+    second: s4m_ur4i_huge-assetpack-tilemap_60
+  - first:
+      213: 6116188684621179323
+    second: s4m_ur4i_huge-assetpack-tilemap_61
+  - first:
+      213: -8082284960322581003
+    second: s4m_ur4i_huge-assetpack-tilemap_62
+  - first:
+      213: -1451114408336939395
+    second: s4m_ur4i_huge-assetpack-tilemap_63
+  - first:
+      213: -2751480886680860667
+    second: s4m_ur4i_huge-assetpack-tilemap_64
+  - first:
+      213: 1178296961049005446
+    second: s4m_ur4i_huge-assetpack-tilemap_65
+  - first:
+      213: -834968536490571920
+    second: s4m_ur4i_huge-assetpack-tilemap_66
+  - first:
+      213: -8321708059407595389
+    second: s4m_ur4i_huge-assetpack-tilemap_67
+  - first:
+      213: 7363796304460020869
+    second: s4m_ur4i_huge-assetpack-tilemap_68
+  - first:
+      213: 4709381445979228958
+    second: s4m_ur4i_huge-assetpack-tilemap_69
+  - first:
+      213: -5360209883335365561
+    second: s4m_ur4i_huge-assetpack-tilemap_70
+  - first:
+      213: -695622605210823180
+    second: s4m_ur4i_huge-assetpack-tilemap_71
+  - first:
+      213: 6434328524535740774
+    second: s4m_ur4i_huge-assetpack-tilemap_72
+  - first:
+      213: 656888691769562838
+    second: s4m_ur4i_huge-assetpack-tilemap_73
+  - first:
+      213: -7519324238025537597
+    second: s4m_ur4i_huge-assetpack-tilemap_74
+  - first:
+      213: 6399751885136529455
+    second: s4m_ur4i_huge-assetpack-tilemap_75
+  - first:
+      213: 5800196689585649488
+    second: s4m_ur4i_huge-assetpack-tilemap_76
+  - first:
+      213: 4498341166653105048
+    second: s4m_ur4i_huge-assetpack-tilemap_77
+  - first:
+      213: 5265211076919720124
+    second: s4m_ur4i_huge-assetpack-tilemap_78
+  - first:
+      213: -5081985534889844146
+    second: s4m_ur4i_huge-assetpack-tilemap_79
+  - first:
+      213: -6024060662705764667
+    second: s4m_ur4i_huge-assetpack-tilemap_80
+  - first:
+      213: -1020755430075056215
+    second: s4m_ur4i_huge-assetpack-tilemap_81
+  - first:
+      213: 1175983847669741463
+    second: s4m_ur4i_huge-assetpack-tilemap_82
+  - first:
+      213: 9095321088635230229
+    second: s4m_ur4i_huge-assetpack-tilemap_83
+  - first:
+      213: -7294587370248265419
+    second: s4m_ur4i_huge-assetpack-tilemap_84
+  - first:
+      213: -2011002468245995810
+    second: s4m_ur4i_huge-assetpack-tilemap_85
+  - first:
+      213: -3155397329560947011
+    second: s4m_ur4i_huge-assetpack-tilemap_86
+  - first:
+      213: -2283182749461939026
+    second: s4m_ur4i_huge-assetpack-tilemap_87
+  - first:
+      213: -3750569234315929737
+    second: s4m_ur4i_huge-assetpack-tilemap_88
+  - first:
+      213: 8318562315075153047
+    second: s4m_ur4i_huge-assetpack-tilemap_89
+  - first:
+      213: 4113602242690794736
+    second: s4m_ur4i_huge-assetpack-tilemap_90
+  - first:
+      213: 674037802783863255
+    second: s4m_ur4i_huge-assetpack-tilemap_91
+  - first:
+      213: -7420962789160403739
+    second: s4m_ur4i_huge-assetpack-tilemap_92
+  - first:
+      213: -3889867097540370304
+    second: s4m_ur4i_huge-assetpack-tilemap_93
+  - first:
+      213: -5643176880759086099
+    second: s4m_ur4i_huge-assetpack-tilemap_94
+  - first:
+      213: -5651677233945894019
+    second: s4m_ur4i_huge-assetpack-tilemap_95
+  - first:
+      213: -6977769274474790515
+    second: s4m_ur4i_huge-assetpack-tilemap_96
+  - first:
+      213: -1550716064897756590
+    second: s4m_ur4i_huge-assetpack-tilemap_97
+  - first:
+      213: 6758520011549148143
+    second: s4m_ur4i_huge-assetpack-tilemap_98
+  - first:
+      213: 634471540290488898
+    second: s4m_ur4i_huge-assetpack-tilemap_99
+  - first:
+      213: 2658850665016421806
+    second: s4m_ur4i_huge-assetpack-tilemap_100
+  - first:
+      213: -2334887952836877215
+    second: s4m_ur4i_huge-assetpack-tilemap_101
+  - first:
+      213: -8414940576732994888
+    second: s4m_ur4i_huge-assetpack-tilemap_102
+  - first:
+      213: -5777133898407480054
+    second: s4m_ur4i_huge-assetpack-tilemap_103
+  - first:
+      213: 3064075849732697013
+    second: s4m_ur4i_huge-assetpack-tilemap_104
+  - first:
+      213: -8248680970093214548
+    second: s4m_ur4i_huge-assetpack-tilemap_105
+  - first:
+      213: 446962974885634574
+    second: s4m_ur4i_huge-assetpack-tilemap_106
+  - first:
+      213: 6051588246430877340
+    second: s4m_ur4i_huge-assetpack-tilemap_107
+  - first:
+      213: 5622631057810379270
+    second: s4m_ur4i_huge-assetpack-tilemap_108
+  - first:
+      213: -2488400894215034926
+    second: s4m_ur4i_huge-assetpack-tilemap_109
+  - first:
+      213: -8196270301128003237
+    second: s4m_ur4i_huge-assetpack-tilemap_110
+  - first:
+      213: 1938805813592272108
+    second: s4m_ur4i_huge-assetpack-tilemap_111
+  - first:
+      213: 5305582722146642295
+    second: s4m_ur4i_huge-assetpack-tilemap_112
+  - first:
+      213: -752003958057493373
+    second: s4m_ur4i_huge-assetpack-tilemap_113
+  - first:
+      213: -4383065105092108218
+    second: s4m_ur4i_huge-assetpack-tilemap_114
+  - first:
+      213: -2055098063742259501
+    second: s4m_ur4i_huge-assetpack-tilemap_115
+  - first:
+      213: 4385607433250642051
+    second: s4m_ur4i_huge-assetpack-tilemap_116
+  - first:
+      213: 5737339183985438001
+    second: s4m_ur4i_huge-assetpack-tilemap_117
+  - first:
+      213: -7264622316827772730
+    second: s4m_ur4i_huge-assetpack-tilemap_118
+  - first:
+      213: 5680302307291305279
+    second: s4m_ur4i_huge-assetpack-tilemap_119
+  - first:
+      213: 3605616929423310180
+    second: s4m_ur4i_huge-assetpack-tilemap_120
+  - first:
+      213: 3835984323088190279
+    second: s4m_ur4i_huge-assetpack-tilemap_121
+  - first:
+      213: -3997750700011989163
+    second: s4m_ur4i_huge-assetpack-tilemap_122
+  - first:
+      213: -8321989155917508728
+    second: s4m_ur4i_huge-assetpack-tilemap_123
+  - first:
+      213: -1130739632801720058
+    second: s4m_ur4i_huge-assetpack-tilemap_124
+  - first:
+      213: -7592852452818829056
+    second: s4m_ur4i_huge-assetpack-tilemap_125
+  - first:
+      213: 6360794964314150360
+    second: s4m_ur4i_huge-assetpack-tilemap_126
+  - first:
+      213: 2867906674927578135
+    second: s4m_ur4i_huge-assetpack-tilemap_127
+  - first:
+      213: -1093414305745604207
+    second: s4m_ur4i_huge-assetpack-tilemap_128
+  - first:
+      213: 3024747149663911269
+    second: s4m_ur4i_huge-assetpack-tilemap_129
+  - first:
+      213: -4278247934969268828
+    second: s4m_ur4i_huge-assetpack-tilemap_130
+  - first:
+      213: 7460455216342235082
+    second: s4m_ur4i_huge-assetpack-tilemap_131
+  - first:
+      213: 546515950269394082
+    second: s4m_ur4i_huge-assetpack-tilemap_132
+  - first:
+      213: 5553242993116859816
+    second: s4m_ur4i_huge-assetpack-tilemap_133
+  - first:
+      213: -374104052090482530
+    second: s4m_ur4i_huge-assetpack-tilemap_134
+  - first:
+      213: -2708105905928647122
+    second: s4m_ur4i_huge-assetpack-tilemap_135
+  - first:
+      213: 3895709322710314830
+    second: s4m_ur4i_huge-assetpack-tilemap_136
+  - first:
+      213: -3853289590406792077
+    second: s4m_ur4i_huge-assetpack-tilemap_137
+  - first:
+      213: 5376903005531980475
+    second: s4m_ur4i_huge-assetpack-tilemap_139
+  - first:
+      213: 1218592430810803364
+    second: s4m_ur4i_huge-assetpack-tilemap_140
+  - first:
+      213: 7196222253197185269
+    second: s4m_ur4i_huge-assetpack-tilemap_141
+  - first:
+      213: 205075641879099556
+    second: s4m_ur4i_huge-assetpack-tilemap_142
+  - first:
+      213: 1311561746173824441
+    second: s4m_ur4i_huge-assetpack-tilemap_143
+  - first:
+      213: 2908932966201107290
+    second: s4m_ur4i_huge-assetpack-tilemap_144
+  - first:
+      213: -5093615601531614475
+    second: s4m_ur4i_huge-assetpack-tilemap_145
+  - first:
+      213: -266054847603423403
+    second: s4m_ur4i_huge-assetpack-tilemap_146
+  - first:
+      213: -6848953020114414330
+    second: s4m_ur4i_huge-assetpack-tilemap_147
+  - first:
+      213: 283295998073640720
+    second: s4m_ur4i_huge-assetpack-tilemap_148
+  - first:
+      213: -9152728701288094928
+    second: s4m_ur4i_huge-assetpack-tilemap_149
+  - first:
+      213: -403304166913084527
+    second: s4m_ur4i_huge-assetpack-tilemap_150
+  - first:
+      213: -1832929348498907905
+    second: s4m_ur4i_huge-assetpack-tilemap_151
+  - first:
+      213: 8200582879388499425
+    second: s4m_ur4i_huge-assetpack-tilemap_152
+  - first:
+      213: -1609692630974809893
+    second: s4m_ur4i_huge-assetpack-tilemap_153
+  - first:
+      213: 9118711941422511639
+    second: s4m_ur4i_huge-assetpack-tilemap_154
+  - first:
+      213: 7170794278654105150
+    second: s4m_ur4i_huge-assetpack-tilemap_155
+  - first:
+      213: -370624146650068379
+    second: s4m_ur4i_huge-assetpack-tilemap_156
+  - first:
+      213: -2784996445327559593
+    second: s4m_ur4i_huge-assetpack-tilemap_157
+  - first:
+      213: 8674590839790005630
+    second: s4m_ur4i_huge-assetpack-tilemap_158
+  - first:
+      213: 7069663326359736265
+    second: s4m_ur4i_huge-assetpack-tilemap_159
+  - first:
+      213: 3010934313304106168
+    second: s4m_ur4i_huge-assetpack-tilemap_160
+  - first:
+      213: -6786618733904012644
+    second: s4m_ur4i_huge-assetpack-tilemap_161
+  - first:
+      213: 7088966103327705526
+    second: s4m_ur4i_huge-assetpack-tilemap_162
+  - first:
+      213: 3519364380734556976
+    second: s4m_ur4i_huge-assetpack-tilemap_163
+  - first:
+      213: 7611847887737670260
+    second: s4m_ur4i_huge-assetpack-tilemap_164
+  - first:
+      213: -7329271283401017781
+    second: s4m_ur4i_huge-assetpack-tilemap_165
+  - first:
+      213: 795208845498025053
+    second: s4m_ur4i_huge-assetpack-tilemap_166
+  - first:
+      213: 2830172892885579298
+    second: s4m_ur4i_huge-assetpack-tilemap_167
+  - first:
+      213: 4373810550499820117
+    second: s4m_ur4i_huge-assetpack-tilemap_168
+  - first:
+      213: 1194620069564343442
+    second: s4m_ur4i_huge-assetpack-tilemap_169
+  - first:
+      213: -5089377001266447907
+    second: s4m_ur4i_huge-assetpack-tilemap_170
+  - first:
+      213: -6162711732949246559
+    second: s4m_ur4i_huge-assetpack-tilemap_171
+  - first:
+      213: 7787740690380396653
+    second: s4m_ur4i_huge-assetpack-tilemap_172
+  - first:
+      213: 8274120357831589344
+    second: s4m_ur4i_huge-assetpack-tilemap_173
+  - first:
+      213: -8206438597824170136
+    second: s4m_ur4i_huge-assetpack-tilemap_174
+  - first:
+      213: 1489835530983293679
+    second: Environment Textures_0
+  - first:
+      213: -4493729355966837390
+    second: Environment Textures_1
+  - first:
+      213: -6560959902021391098
+    second: Environment Textures_2
+  - first:
+      213: -4869615451906192134
+    second: Environment Textures_3
+  - first:
+      213: 8771192105379333021
+    second: Environment Textures_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 685
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e384d12aa23e140800000000000000
+      internalID: 4747685307942977081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 869
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9be14646d6e0b10800000000000000
+      internalID: 1949615966641895904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 868
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff08be060072c9ee0800000000000000
+      internalID: -1253083713736310529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 868
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11591d376f6a10270800000000000000
+      internalID: 8215030772735776017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 868
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83023e009c65945c0800000000000000
+      internalID: -4230754953634570184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 868
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac701f4b3410c6b0800000000000000
+      internalID: -5278196518316114769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 868
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f1defdbaae0d3b0800000000000000
+      internalID: -5489629921847468251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 852
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799c00cfc042dd820800000000000000
+      internalID: 2944549369556289943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 868
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0d2f39c406a9640800000000000000
+      internalID: 5087484611084341502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 868
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719b0233e6af6e890800000000000000
+      internalID: -7428975184089925353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 852
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d23f709060d71d00800000000000000
+      internalID: 943451760117101268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 852
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36471c7dd12c1630800000000000000
+      internalID: 3899028612549396029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 837
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24cc67dddc848580800000000000000
+      internalID: -8825774485309438930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 836
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a3a4812c3185760800000000000000
+      internalID: 7446723708209216147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 821
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5368eee7d4430860800000000000000
+      internalID: 7494909899091501916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 820
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757530d7bbb2ce900800000000000000
+      internalID: 714994525101315927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 804
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74e9bad084341280800000000000000
+      internalID: -9073569621214632834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 804
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dee110b032f8a0c0800000000000000
+      internalID: -4564131931413680428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 788
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6c6f88aa2bb71c0800000000000000
+      internalID: -4504810556741990661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 788
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a9de65dbc4a43a0800000000000000
+      internalID: -6680442721159767538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 836
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8155a28d183739410800000000000000
+      internalID: 1482655703849653528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 836
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9a0c883fcf174f0800000000000000
+      internalID: -832606333185250826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cbfd0caff023d80800000000000000
+      internalID: -8272531995874051036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 821
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63ea31367ffe03c0800000000000000
+      internalID: -4391291703542488212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 820
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c593011ae0ce73380800000000000000
+      internalID: -8991458583446013604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 852
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fe7a4cdee3da2e0800000000000000
+      internalID: -2112963459239383177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 852
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c194c86da823c7e50800000000000000
+      internalID: 6808372308563740956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 836
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a580847b52364b0800000000000000
+      internalID: -5448469655070418288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 836
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f8737dc5e6ff410800000000000000
+      internalID: 1513049344846565230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 825
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892d410c90a722f00800000000000000
+      internalID: 1090568242072965784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0add43f96c57caef0800000000000000
+      internalID: -95571996146606688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 780
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b96149719653c90800000000000000
+      internalID: -7190725680037455079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 780
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5392eaeb6b7ed80800000000000000
+      internalID: -8221401664659573336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 780
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a5dbe4bddb48710800000000000000
+      internalID: 1694688109414668894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 780
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7138395553d3cab50800000000000000
+      internalID: 6605722052723966743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 780
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28d7cbc071969690800000000000000
+      internalID: -7595723807872526290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153f7e15869b62840800000000000000
+      internalID: 5199046677547709265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d713a525af59140800000000000000
+      internalID: 4725958615602658612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 780
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fc16bea9e213e00800000000000000
+      internalID: 1022649833298710319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 780
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1869268bb84e15fa0800000000000000
+      internalID: -5813614355213543807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 796
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8f439332130a5d0800000000000000
+      internalID: -3053386520003807056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 796
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fb74b22f9af60c0800000000000000
+      internalID: -4580255438439203042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 756
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56c4f2ca7364f150800000000000000
+      internalID: 5905454390297544287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 732
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feda7566b39427c0800000000000000
+      internalID: -4096987349404426510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 732
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01c73a7bfc27aa70800000000000000
+      internalID: 8838082252336775439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 716
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32363bd067aca0d0800000000000000
+      internalID: -3410166783389846982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 716
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23398f31ebfd01340800000000000000
+      internalID: 4832608407640380210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 700
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93826077532f7cf60800000000000000
+      internalID: 8054672770019502137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 700
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3dc47410ec61af0800000000000000
+      internalID: -425926609853426696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 684
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f2161c0ca54d180800000000000000
+      internalID: -9091541963829596303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 684
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffaab86057122ef0800000000000000
+      internalID: -134519404745805840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 668
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd366c8078aa68870800000000000000
+      internalID: 8684816428375106527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 668
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c99a974822ca580800000000000000
+      internalID: -8814632418298717101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 652
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c82935749824640800000000000000
+      internalID: 5062759870555655176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 652
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17b89ba882750e10800000000000000
+      internalID: 2163261127341422365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 636
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f5f72906ad40fd0800000000000000
+      internalID: -2376534595035242625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 636
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c332ea7b16173c7b0800000000000000
+      internalID: -5205192079802752196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 636
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a5a8488f2811b30800000000000000
+      internalID: 4256327126728989317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 636
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3428b87ef894700800000000000000
+      internalID: 525109056206160825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 620
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa738054988f63c0800000000000000
+      internalID: -4364119343311390040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 620
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba7828ab7f6e9500800000000000000
+      internalID: 404883593402809011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 620
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9eb16243111e450800000000000000
+      internalID: 6116188684621179323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 620
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd8d7e76a4f5df80800000000000000
+      internalID: -8082284960322581003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_63
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7620aa422b9cdbe0800000000000000
+      internalID: -1451114408336939395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_64
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5084c1726b6c0d9d0800000000000000
+      internalID: -2751480886680860667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_65
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d8f3bd7d62a5010800000000000000
+      internalID: 1178296961049005446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_66
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 604
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0770ad73a889964f0800000000000000
+      internalID: -834968536490571920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_67
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 588
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388418a3c9a538c80800000000000000
+      internalID: -8321708059407595389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_68
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 588
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c7cad49b5713660800000000000000
+      internalID: 7363796304460020869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_69
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 588
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b486749751b5140800000000000000
+      internalID: 4709381445979228958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_70
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 588
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ce14eb285bc95b0800000000000000
+      internalID: -5360209883335365561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_71
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 580
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f55da61de6a856f0800000000000000
+      internalID: -695622605210823180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_72
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 580
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669bd19d3b35b4950800000000000000
+      internalID: 6434328524535740774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_73
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 532
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d655e9e8ccbd1900800000000000000
+      internalID: 656888691769562838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 692
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7c081d17ef5a790800000000000000
+      internalID: -7519324238025537597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_75
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 692
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f280334ae6c70d850800000000000000
+      internalID: 6399751885136529455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_76
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 685
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057362e88207e7050800000000000000
+      internalID: 5800196689585649488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 693
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893efd435715d6e30800000000000000
+      internalID: 4498341166653105048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 692
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -3.5}
+        - {x: -4, y: 3.5}
+        - {x: 4, y: 3.5}
+        - {x: 4, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb870430499c11940800000000000000
+      internalID: 5265211076919720124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_79
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 693
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42a73fd4192979b0800000000000000
+      internalID: -5081985534889844146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 692
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6c40e7ebc366ca0800000000000000
+      internalID: -6024060662705764667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af33d3385c85d1f0800000000000000
+      internalID: -1020755430075056215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 636
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797b3fd241fe15010800000000000000
+      internalID: 1175983847669741463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 645
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518d83e4752193e70800000000000000
+      internalID: 9095321088635230229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 645
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5312d456f6b64ca90800000000000000
+      internalID: -7294587370248265419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 628
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede73cde8eb7714e0800000000000000
+      internalID: -2011002468245995810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 628
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6bd46c8d6c534d0800000000000000
+      internalID: -3155397329560947011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_87
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 628
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac750dd2618050e0800000000000000
+      internalID: -2283182749461939026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777171b172d43fbc0800000000000000
+      internalID: -3750569234315929737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 620
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c61081a58717370800000000000000
+      internalID: 8318562315075153047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 612
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4c5d6e173761930800000000000000
+      internalID: 4113602242690794736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 612
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1fd187fc9aa5900800000000000000
+      internalID: 674037802783863255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 612
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecb3b449a1730990800000000000000
+      internalID: -7420962789160403739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_93
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 660
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08060a3fb7a640ac0800000000000000
+      internalID: -3889867097540370304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_94
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 660
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de368a996886fa1b0800000000000000
+      internalID: -5643176880759086099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 660
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d732e75ef753191b0800000000000000
+      internalID: -5651677233945894019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_96
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 660
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d818b4e80dbf92f90800000000000000
+      internalID: -6977769274474790515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_97
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 676
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252174c74ffba7ae0800000000000000
+      internalID: -1550716064897756590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_98
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 676
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe381cf64261bcd50800000000000000
+      internalID: 6758520011549148143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_99
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 676
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a0c1b11881ec800800000000000000
+      internalID: 634471540290488898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_100
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 676
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead6d17b79226e420800000000000000
+      internalID: 2658850665016421806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_101
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 669
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164a1d417cfc89fd0800000000000000
+      internalID: -2334887952836877215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_102
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 661
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b22fc53120283b80800000000000000
+      internalID: -8414940576732994888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_103
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 621
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05fd85f35f73dfa0800000000000000
+      internalID: -5777133898407480054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_104
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 621
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbab2c40c8c58a20800000000000000
+      internalID: 3064075849732697013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_105
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 621
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4c1107c5cc68d80800000000000000
+      internalID: -8248680970093214548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_106
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 621
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e026fc1257ee33600800000000000000
+      internalID: 446962974885634574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_107
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 612
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96017b827f8bf350800000000000000
+      internalID: 6051588246430877340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_108
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 612
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602ddd73829970e40800000000000000
+      internalID: 5622631057810379270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_109
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 612
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d76c81229c677dd0800000000000000
+      internalID: -2488400894215034926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_110
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 596
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b517e2a369ff04e80800000000000000
+      internalID: -8196270301128003237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_111
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 596
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec21af7d9508ea10800000000000000
+      internalID: 1938805813592272108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_112
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 596
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7792008206731a940800000000000000
+      internalID: 5305582722146642295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_113
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 596
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c9b4a62685095f0800000000000000
+      internalID: -752003958057493373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_114
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 596
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640239762893c23c0800000000000000
+      internalID: -4383065105092108218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deac0c0333da73e0800000000000000
+      internalID: -2055098063742259501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_116
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 597
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388973f79beccdc30800000000000000
+      internalID: 4385607433250642051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13da161179f1f9f40800000000000000
+      internalID: 5737339183985438001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_118
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 548
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8fa121e70ee2b90800000000000000
+      internalID: -7264622316827772730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_119
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 549
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f351eea5adc74de40800000000000000
+      internalID: 5680302307291305279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_120
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 572
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d39627e79b90230800000000000000
+      internalID: 3605616929423310180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_121
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 572
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b83adfa672c3530800000000000000
+      internalID: 3835984323088190279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_122
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 588
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55757395be22588c0800000000000000
+      internalID: -3997750700011989163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_123
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 588
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f42e854fa528c80800000000000000
+      internalID: -8321989155917508728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_124
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 604
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609d56d7b4ece40f0800000000000000
+      internalID: -1130739632801720058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_125
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 604
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001c7cd3ce4c0a690800000000000000
+      internalID: -7592852452818829056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_126
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 620
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5d901b155164850800000000000000
+      internalID: 6360794964314150360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_127
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 620
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ca7001de9dcc720800000000000000
+      internalID: 2867906674927578135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_128
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 636
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191f3b96b7963d0f0800000000000000
+      internalID: -1093414305745604207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_129
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 636
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56db71fb18f0af920800000000000000
+      internalID: 3024747149663911269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_130
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 652
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5bb179b2c90a4c0800000000000000
+      internalID: -4278247934969268828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_131
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 652
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7f9c8fd7cd88760800000000000000
+      internalID: 7460455216342235082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_132
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 668
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac64e77c5d959700800000000000000
+      internalID: 546515950269394082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_133
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 668
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad48247415111d40800000000000000
+      internalID: 5553242993116859816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_134
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 684
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90dc12c85aeecaf0800000000000000
+      internalID: -374104052090482530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_135
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 684
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e4cf6d600ea6ad0800000000000000
+      internalID: -2708105905928647122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_136
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 700
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f63581df6501630800000000000000
+      internalID: 3895709322710314830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_137
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 700
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cb71b788d568ac0800000000000000
+      internalID: -3853289590406792077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_138
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 803
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e528382dec0d1570800000000000000
+      internalID: 8438915489483728354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 700
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2c674abc89e9a40800000000000000
+      internalID: 5376903005531980475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_140
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 708
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac25740c5f49e010800000000000000
+      internalID: 1218592430810803364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_141
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 708
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f05496130e1ed360800000000000000
+      internalID: 7196222253197185269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_142
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 708
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8f942b53398d200800000000000000
+      internalID: 205075641879099556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_143
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 711
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd8ead857a933210800000000000000
+      internalID: 1311561746173824441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_144
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 708
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5327ddde1b9e5820800000000000000
+      internalID: 2908932966201107290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_145
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 700
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa0258f897df49b0800000000000000
+      internalID: -5093615601531614475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_146
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 717
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557c3d59688ce4cf0800000000000000
+      internalID: -266054847603423403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_147
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 716
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605ddb8f381a3f0a0800000000000000
+      internalID: -6848953020114414330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_148
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 716
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017187395387ee300800000000000000
+      internalID: 283295998073640720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_149
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 726
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033633a4db9faf080800000000000000
+      internalID: -9152728701288094928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_150
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 724
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193f5ba3ffc276af0800000000000000
+      internalID: -403304166913084527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_151
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 724
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc955408702096e0800000000000000
+      internalID: -1832929348498907905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_152
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 724
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edf9152ea25ec170800000000000000
+      internalID: 8200582879388499425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_153
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 662
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8be25a41939a9e0800000000000000
+      internalID: -1609692630974809893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_154
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 670
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716f99d923c2c8e70800000000000000
+      internalID: 9118711941422511639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 565
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36d4986767c38360800000000000000
+      internalID: 7170794278654105150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_156
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 565
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a8db16d474bdaf0800000000000000
+      internalID: -370624146650068379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_157
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 569
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754768f0d74b959d0800000000000000
+      internalID: -2784996445327559593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_158
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 549
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d6a89a866526870800000000000000
+      internalID: 8674590839790005630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_159
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 549
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf4741b65d7c1260800000000000000
+      internalID: 7069663326359736265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_160
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 549
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4a68a2eccf8c920800000000000000
+      internalID: 3010934313304106168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_161
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 549
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ad3a3f73611d1a0800000000000000
+      internalID: -6786618733904012644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_162
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 549
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b902adac11116260800000000000000
+      internalID: 7088966103327705526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_163
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 740
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b88d4024b47d030800000000000000
+      internalID: 3519364380734556976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 184
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a49e81357b2a960800000000000000
+      internalID: 7611847887737670260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_165
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 204
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4639629992394a90800000000000000
+      internalID: -7329271283401017781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_166
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 378
+        width: 345
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5488265b36290b00800000000000000
+      internalID: 795208845498025053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_167
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 492
+        width: 68
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226726d404bc64720800000000000000
+      internalID: 2830172892885579298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_168
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 644
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552c561b585e2bc30800000000000000
+      internalID: 4373810550499820117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_169
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 628
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2946fe7bf94249010800000000000000
+      internalID: 1194620069564343442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_170
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 716
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9787ff496ee59b0800000000000000
+      internalID: -5089377001266447907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_171
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 773
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad9d609456a97aa0800000000000000
+      internalID: -6162711732949246559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_172
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 772
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d689afc85ec931c60800000000000000
+      internalID: 7787740690380396653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_173
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 853
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed316590a493d270800000000000000
+      internalID: 8274120357831589344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-tilemap_174
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 164
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867b2a9239fdc1e80800000000000000
+      internalID: -8206438597824170136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment Textures_0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 834
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2c30e9585fca410800000000000000
+      internalID: 1489835530983293679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment Textures_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 813
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d0ad4a5f013a1c0800000000000000
+      internalID: -4493729355966837390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment Textures_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 582
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dee660bb9c2f4a0800000000000000
+      internalID: -6560959902021391098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment Textures_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 733
+        width: 16
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5200119, y: 0.2600708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcc06cfb86ab6cb0800000000000000
+      internalID: -4869615451906192134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment Textures_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 780
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9388d18fb889b970800000000000000
+      internalID: 8771192105379333021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
