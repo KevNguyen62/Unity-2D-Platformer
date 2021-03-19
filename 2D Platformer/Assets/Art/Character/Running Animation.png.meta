@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: 498932c33d361244484e017ba59fbfff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8858170366057619215
+    second: s4m_ur4i_huge-assetpack-character-animations_0
+  - first:
+      213: 2572653355979522742
+    second: s4m_ur4i_huge-assetpack-character-animations_1
+  - first:
+      213: 653986937185138394
+    second: s4m_ur4i_huge-assetpack-character-animations_2
+  - first:
+      213: 4224849350359213180
+    second: s4m_ur4i_huge-assetpack-character-animations_3
+  - first:
+      213: 3016831082037813925
+    second: s4m_ur4i_huge-assetpack-character-animations_4
+  - first:
+      213: -6473745156379452977
+    second: s4m_ur4i_huge-assetpack-character-animations_5
+  - first:
+      213: 1336378984608626420
+    second: s4m_ur4i_huge-assetpack-character-animations_6
+  - first:
+      213: -8723855511781506039
+    second: s4m_ur4i_huge-assetpack-character-animations_7
+  - first:
+      213: -8505470841113273895
+    second: s4m_ur4i_huge-assetpack-character-animations_8
+  - first:
+      213: -3219275469418543549
+    second: s4m_ur4i_huge-assetpack-character-animations_9
+  - first:
+      213: -3599943071154989448
+    second: s4m_ur4i_huge-assetpack-character-animations_10
+  - first:
+      213: 4109295346420833032
+    second: s4m_ur4i_huge-assetpack-character-animations_11
+  - first:
+      213: -396403821177327092
+    second: s4m_ur4i_huge-assetpack-character-animations_12
+  - first:
+      213: 3475250521599702932
+    second: s4m_ur4i_huge-assetpack-character-animations_13
+  - first:
+      213: 6948681813351192078
+    second: s4m_ur4i_huge-assetpack-character-animations_14
+  - first:
+      213: -2068811584313519182
+    second: s4m_ur4i_huge-assetpack-character-animations_15
+  - first:
+      213: -5072991165231023008
+    second: s4m_ur4i_huge-assetpack-character-animations_16
+  - first:
+      213: 2221064415020525337
+    second: s4m_ur4i_huge-assetpack-character-animations_17
+  - first:
+      213: -4564311059615442257
+    second: s4m_ur4i_huge-assetpack-character-animations_18
+  - first:
+      213: 1152801946123010164
+    second: s4m_ur4i_huge-assetpack-character-animations_19
+  - first:
+      213: -6320491773659246207
+    second: s4m_ur4i_huge-assetpack-character-animations_20
+  - first:
+      213: 7504299644781755291
+    second: s4m_ur4i_huge-assetpack-character-animations_21
+  - first:
+      213: 4991174949603143456
+    second: s4m_ur4i_huge-assetpack-character-animations_22
+  - first:
+      213: -5277757855248080515
+    second: s4m_ur4i_huge-assetpack-character-animations_23
+  - first:
+      213: -8430207684737903557
+    second: s4m_ur4i_huge-assetpack-character-animations_24
+  - first:
+      213: -1623369951939029605
+    second: s4m_ur4i_huge-assetpack-character-animations_25
+  - first:
+      213: 2624118112039548247
+    second: s4m_ur4i_huge-assetpack-character-animations_26
+  - first:
+      213: -8299533561127743528
+    second: s4m_ur4i_huge-assetpack-character-animations_27
+  - first:
+      213: 6785062571892496685
+    second: s4m_ur4i_huge-assetpack-character-animations_28
+  - first:
+      213: 7168871564558163443
+    second: s4m_ur4i_huge-assetpack-character-animations_29
+  - first:
+      213: 3975055290438979028
+    second: s4m_ur4i_huge-assetpack-character-animations_30
+  - first:
+      213: -693065453065732989
+    second: s4m_ur4i_huge-assetpack-character-animations_31
+  - first:
+      213: -6861028606776284051
+    second: s4m_ur4i_huge-assetpack-character-animations_32
+  - first:
+      213: -7006911703789616482
+    second: s4m_ur4i_huge-assetpack-character-animations_33
+  - first:
+      213: -6307862096643888257
+    second: s4m_ur4i_huge-assetpack-character-animations_34
+  - first:
+      213: -2482460910007471438
+    second: s4m_ur4i_huge-assetpack-character-animations_35
+  - first:
+      213: -5839853822849810258
+    second: s4m_ur4i_huge-assetpack-character-animations_36
+  - first:
+      213: 8673468590032766718
+    second: s4m_ur4i_huge-assetpack-character-animations_37
+  - first:
+      213: -4385307651629098258
+    second: s4m_ur4i_huge-assetpack-character-animations_38
+  - first:
+      213: 5312160170072112358
+    second: s4m_ur4i_huge-assetpack-character-animations_39
+  - first:
+      213: 6623805091504871627
+    second: s4m_ur4i_huge-assetpack-character-animations_40
+  - first:
+      213: -2046670062143103143
+    second: s4m_ur4i_huge-assetpack-character-animations_41
+  - first:
+      213: -5319617608390625148
+    second: s4m_ur4i_huge-assetpack-character-animations_42
+  - first:
+      213: -1174900213693570451
+    second: s4m_ur4i_huge-assetpack-character-animations_43
+  - first:
+      213: -3406792349980864662
+    second: s4m_ur4i_huge-assetpack-character-animations_44
+  - first:
+      213: 3391858952702306995
+    second: s4m_ur4i_huge-assetpack-character-animations_45
+  - first:
+      213: -5860498286005977203
+    second: s4m_ur4i_huge-assetpack-character-animations_46
+  - first:
+      213: -5057619799597534731
+    second: s4m_ur4i_huge-assetpack-character-animations_0
+  - first:
+      213: 7576977855896713069
+    second: s4m_ur4i_huge-assetpack-character-animations_1
+  - first:
+      213: 1533140768703451091
+    second: s4m_ur4i_huge-assetpack-character-animations_2
+  - first:
+      213: 4503224176425805925
+    second: s4m_ur4i_huge-assetpack-character-animations_3
+  - first:
+      213: 1163248383114426839
+    second: s4m_ur4i_huge-assetpack-character-animations_4
+  - first:
+      213: 3320957611363299135
+    second: s4m_ur4i_huge-assetpack-character-animations_5
+  - first:
+      213: 1686580666711818606
+    second: s4m_ur4i_huge-assetpack-character-animations_6
+  - first:
+      213: 8686389334012461395
+    second: s4m_ur4i_huge-assetpack-character-animations_7
+  - first:
+      213: -8699157094871929827
+    second: s4m_ur4i_huge-assetpack-character-animations_8
+  - first:
+      213: -8349132981738153283
+    second: s4m_ur4i_huge-assetpack-character-animations_9
+  - first:
+      213: -340773491317955567
+    second: s4m_ur4i_huge-assetpack-character-animations_10
+  - first:
+      213: 540816315520041205
+    second: s4m_ur4i_huge-assetpack-character-animations_11
+  - first:
+      213: -5715868688558263610
+    second: s4m_ur4i_huge-assetpack-character-animations_12
+  - first:
+      213: 5337395630400864323
+    second: s4m_ur4i_huge-assetpack-character-animations_13
+  - first:
+      213: 4699089062968432335
+    second: s4m_ur4i_huge-assetpack-character-animations_14
+  - first:
+      213: -2488315723003261783
+    second: s4m_ur4i_huge-assetpack-character-animations_15
+  - first:
+      213: 4930520206281424445
+    second: s4m_ur4i_huge-assetpack-character-animations_16
+  - first:
+      213: 2731237624474057289
+    second: s4m_ur4i_huge-assetpack-character-animations_17
+  - first:
+      213: -8856386219944817338
+    second: s4m_ur4i_huge-assetpack-character-animations_18
+  - first:
+      213: -874126675497949825
+    second: s4m_ur4i_huge-assetpack-character-animations_19
+  - first:
+      213: -1436495931194718186
+    second: s4m_ur4i_huge-assetpack-character-animations_20
+  - first:
+      213: -5579350293233136526
+    second: s4m_ur4i_huge-assetpack-character-animations_21
+  - first:
+      213: -142115383837759202
+    second: s4m_ur4i_huge-assetpack-character-animations_22
+  - first:
+      213: 6387434227853526037
+    second: s4m_ur4i_huge-assetpack-character-animations_23
+  - first:
+      213: 8050448544506229024
+    second: s4m_ur4i_huge-assetpack-character-animations_24
+  - first:
+      213: 6946011325356525070
+    second: s4m_ur4i_huge-assetpack-character-animations_25
+  - first:
+      213: -2399394681610233071
+    second: s4m_ur4i_huge-assetpack-character-animations_26
+  - first:
+      213: 4943461364407025469
+    second: s4m_ur4i_huge-assetpack-character-animations_27
+  - first:
+      213: -6146359517816181604
+    second: s4m_ur4i_huge-assetpack-character-animations_28
+  - first:
+      213: -8130032969196400004
+    second: s4m_ur4i_huge-assetpack-character-animations_29
+  - first:
+      213: 1363466766896448572
+    second: s4m_ur4i_huge-assetpack-character-animations_30
+  - first:
+      213: 1232145695634987314
+    second: s4m_ur4i_huge-assetpack-character-animations_31
+  - first:
+      213: 4637011094125931575
+    second: s4m_ur4i_huge-assetpack-character-animations_32
+  - first:
+      213: -1107159460003053807
+    second: s4m_ur4i_huge-assetpack-character-animations_33
+  - first:
+      213: -6083709732087588294
+    second: s4m_ur4i_huge-assetpack-character-animations_34
+  - first:
+      213: -4540842275309189413
+    second: s4m_ur4i_huge-assetpack-character-animations_35
+  - first:
+      213: 6520602124660071428
+    second: s4m_ur4i_huge-assetpack-character-animations_36
+  - first:
+      213: 6614658581666969469
+    second: s4m_ur4i_huge-assetpack-character-animations_37
+  - first:
+      213: 3930277436730389835
+    second: s4m_ur4i_huge-assetpack-character-animations_38
+  - first:
+      213: -267264553379847976
+    second: s4m_ur4i_huge-assetpack-character-animations_39
+  - first:
+      213: 94407718639718886
+    second: s4m_ur4i_huge-assetpack-character-animations_40
+  - first:
+      213: 8798927430626935958
+    second: s4m_ur4i_huge-assetpack-character-animations_41
+  - first:
+      213: 4351064907285307002
+    second: s4m_ur4i_huge-assetpack-character-animations_42
+  - first:
+      213: -3865617158519665836
+    second: s4m_ur4i_huge-assetpack-character-animations_43
+  - first:
+      213: -3841479601461755660
+    second: s4m_ur4i_huge-assetpack-character-animations_44
+  - first:
+      213: -7390984695989828393
+    second: s4m_ur4i_huge-assetpack-character-animations_45
+  - first:
+      213: -6793834991550601235
+    second: s4m_ur4i_huge-assetpack-character-animations_46
+  - first:
+      213: 1607767033638283280
+    second: Running Animation_4
+  - first:
+      213: 7225202008142569418
+    second: Running Animation_5
+  - first:
+      213: 5189102193247230491
+    second: Running Animation_6
+  - first:
+      213: 7434087904480301903
+    second: Running Animation_7
+  - first:
+      213: -5880060302498507291
+    second: Running Animation_8
+  - first:
+      213: -6770089222090493702
+    second: Running Animation_0
+  - first:
+      213: 1811644758572954279
+    second: Running Animation_1
+  - first:
+      213: 3973996312176957015
+    second: Running Animation_2
+  - first:
+      213: -6767764906471943366
+    second: Running Animation_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 264, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Running Animation_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 240
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018e799499fef4610800000000000000
+      internalID: 1607767033638283280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Animation_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 240
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfd6c512f2154460800000000000000
+      internalID: 7225202008142569418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Animation_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 240
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a93b3a3f4630840800000000000000
+      internalID: 5189102193247230491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Animation_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f439397cf8f2b2760800000000000000
+      internalID: 7434087904480301903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Animation_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 240
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af07893d8bfcb02a0800000000000000
+      internalID: -6770089222090493702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Animation_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 240
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a270f53f41442910800000000000000
+      internalID: 1811644758572954279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Animation_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756150e3798762730800000000000000
+      internalID: 3973996312176957015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Running Animation_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 240
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33926abca11412a0800000000000000
+      internalID: -6767764906471943366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
