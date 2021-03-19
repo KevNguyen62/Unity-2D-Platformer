@@ -14,7 +14,6 @@ public class PlayerMovement : MonoBehaviour
     public Transform feetPosition;
     public float checkRadius;
     public LayerMask whatIsGround;
-    bool canDoubleJump;
 
     //Animator component in player 
     private Animator myAnimator;
@@ -31,7 +30,7 @@ public class PlayerMovement : MonoBehaviour
     {
         horizontalDirection = Input.GetAxisRaw("Horizontal");
         handleRunning(horizontalDirection);
-        handleDoubleJump();
+        handleJump();
     }
 
     private void handleRunning(float horizontalDirection)
@@ -61,24 +60,13 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    private void jump()
-    {
-        rigidBody.velocity = Vector2.up * jumpForce;
-        myAnimator.SetBool("jump", true);
-    }
-
-    private void handleDoubleJump()
+    private void handleJump()
     {
         isGrounded = Physics2D.OverlapCircle(feetPosition.position, checkRadius, whatIsGround);
         if (isGrounded == true && Input.GetKeyDown(KeyCode.Space))
         {
-            jump();
-            canDoubleJump = true;
-        }
-        if (isGrounded == false && canDoubleJump == true && Input.GetKeyDown(KeyCode.Space))
-        {
-            jump();
-            canDoubleJump = false;
+            rigidBody.velocity = Vector2.up * jumpForce;
+            myAnimator.SetBool("jump", true);
         }
     }
 
