@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class ReaperBehavior : StateMachineBehaviour
 {
-    public float speed = 2.0f;
-    public float attackRange = 3f;
+    public float speed = 0.05f;
+    public float attackRange = 1f;
 
     Transform player;
     Rigidbody2D rb;
