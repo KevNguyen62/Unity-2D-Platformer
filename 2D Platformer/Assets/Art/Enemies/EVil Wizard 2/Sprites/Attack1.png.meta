@@ -31,7 +31,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -64,7 +64,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -76,7 +76,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -92,8 +92,8 @@ TextureImporter:
         serializedVersion: 2
         x: 1859
         y: 83
-        width: 127
-        height: 141
+        width: 141
+        height: 146
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -113,8 +113,8 @@ TextureImporter:
         serializedVersion: 2
         x: 1109
         y: 83
-        width: 127
-        height: 141
+        width: 164
+        height: 146
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,8 +134,8 @@ TextureImporter:
         serializedVersion: 2
         x: 1609
         y: 83
-        width: 127
-        height: 141
+        width: 164
+        height: 146
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,8 +155,8 @@ TextureImporter:
         serializedVersion: 2
         x: 1359
         y: 83
-        width: 127
-        height: 141
+        width: 164
+        height: 146
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,8 +176,8 @@ TextureImporter:
         serializedVersion: 2
         x: 862
         y: 81
-        width: 127
-        height: 141
+        width: 164
+        height: 146
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,10 +195,10 @@ TextureImporter:
       name: Attack1_29
       rect:
         serializedVersion: 2
-        x: 75
+        x: 74
         y: 82
-        width: 127
-        height: 141
+        width: 164
+        height: 146
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,10 +216,10 @@ TextureImporter:
       name: Attack1_30
       rect:
         serializedVersion: 2
-        x: 333
+        x: 328
         y: 80
-        width: 127
-        height: 141
+        width: 164
+        height: 146
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,10 +237,10 @@ TextureImporter:
       name: Attack1_32
       rect:
         serializedVersion: 2
-        x: 587
-        y: 81
-        width: 127
-        height: 141
+        x: 583
+        y: 82
+        width: 164
+        height: 146
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
