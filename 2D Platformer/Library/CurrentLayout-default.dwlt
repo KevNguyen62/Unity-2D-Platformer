@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 133
+  controlID: 132
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 389
     height: 947
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 59
+  controlID: 60
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 60
+  controlID: 61
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -376,20 +376,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Art/Enemies
+    - Assets/Scripts/Enemy Scripts
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Art/Enemies
+  - Assets/Scripts/Enemy Scripts
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\nguye\CMPE-195-2D-Platformer\2D Platformer
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: cec90000
-    m_LastClickedID: 51662
-    m_ExpandedIDs: 00000000c6c90000c8c90000cac90000ccc90000cec90000d0c90000d2c90000d4c90000dac9000000ca9a3b
+    scrollPos: {x: 0, y: 202}
+    m_SelectedIDs: e6c90000
+    m_LastClickedID: 51686
+    m_ExpandedIDs: 00000000d8c90000dac90000dcc90000dec90000e0c90000e2c90000e4c90000e6c90000ecc900000aed010000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -417,7 +417,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c6c90000c8c90000cac90000ccc90000cec90000d0c90000d2c90000d4c90000
+    m_ExpandedIDs: 00000000d8c90000dac90000dcc90000dec90000e0c90000e2c90000e4c90000e6c90000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -444,8 +444,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: c6230000deed01000eef010026ef0100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -472,7 +472,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 96
   m_SkipHiddenPackages: 0
-  m_DirectoriesAreaWidth: 115
+  m_DirectoriesAreaWidth: 167
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -540,9 +540,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d2750000
-      m_LastClickedID: 30162
-      m_ExpandedIDs: 64fbffff5aae0000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 64fbffffde750000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -558,7 +558,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 4}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -602,9 +602,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -10.603765, y: -27.786371, z: -12.354492}
+    m_Target: {x: -14.205216, y: -35.04941, z: -61.222378}
     speed: 2
-    m_Value: {x: -10.603765, y: -27.786371, z: -12.354492}
+    m_Value: {x: -14.213378, y: -35.036354, z: -61.188892}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -654,9 +654,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 7.0136886
+    m_Target: 7.7829843
     speed: 2
-    m_Value: 6.7116637
+    m_Value: 7.4478316
   m_Ortho:
     m_Target: 1
     speed: 2

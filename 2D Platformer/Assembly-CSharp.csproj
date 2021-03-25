@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Enemy Scripts\EnemyPatrol.cs" />
     <Compile Include="Assets\Scripts\Enemy Scripts\EvilWizard Scripts\WizardBehavior.cs" />
     <Compile Include="Assets\Scripts\Enemy Scripts\Reaper Scripts\FlipSprite.cs" />
     <Compile Include="Assets\Scripts\Enemy Scripts\Reaper Scripts\ReaperAttack.cs" />
@@ -73,7 +74,7 @@
     <Compile Include="Assets\Scripts\Player Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\PortalTeleporter.cs" />
     <None Include="Assets\Art\Character\animation-frames.txt" />
-    <None Include="Assets\Art\Enemies\Evil Wizard 2\License.txt" />
+    <None Include="Assets\Art\Enemies\Bosses\Evil Wizard 2\License.txt" />
     <None Include="Assets\Art\animation-frames.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
