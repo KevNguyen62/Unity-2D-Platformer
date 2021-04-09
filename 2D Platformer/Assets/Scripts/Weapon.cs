@@ -31,7 +31,7 @@ public class Weapon : MonoBehaviour
             //firing projectile
             if (Input.GetMouseButtonDown(0))
             {
-                Instantiate(projectile, shotPoint.position, transform.rotation);
+                Instantiate(projectile, shotPoint.position, Quaternion.Euler(0f, 0f, rotZ + -90));
                 timeBtwShots = startTimeBtwShots;
             }
         }
