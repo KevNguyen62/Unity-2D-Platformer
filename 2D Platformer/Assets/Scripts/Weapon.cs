@@ -4,8 +4,11 @@ using UnityEngine;
 
 public class Weapon : MonoBehaviour
 {
+
+    
+
     //adjusts the angle of the weapon manually to the cursor. 
-    public float offset;
+    public float offset = -180f;
     public Transform shotPoint;
     public GameObject projectile;
 
@@ -18,7 +21,7 @@ public class Weapon : MonoBehaviour
         //calculat the angle of the weapon to the mouse
 
         //calculate the direction of the mouse cursor to the weapon
-        Vector3 difference = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
+        Vector2 difference = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
 
         //calculate the degrees of the weapon to face the mouse
         float rotZ = Mathf.Atan2(difference.y, difference.x) * Mathf.Rad2Deg;

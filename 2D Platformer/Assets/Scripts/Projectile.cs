@@ -8,6 +8,10 @@ public class Projectile : MonoBehaviour
     public float speed;
     public float lifeTime;
 
+
+    private float lookAngle;
+    Vector2 lookDirection;
+
     public GameObject destroyEffect;
 
     private void Start()
@@ -17,7 +21,10 @@ public class Projectile : MonoBehaviour
 
     private void Update()
     {
-        transform.Translate(transform.up * speed * Time.deltaTime);
+        lookDirection = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
+
+        
+        transform.Translate(Vector2.up *  Time.deltaTime * speed);
     }
 
     void DestroyProjectile()
