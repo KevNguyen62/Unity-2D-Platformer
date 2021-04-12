@@ -63,10 +63,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\GoblinBehavior.cs" />
+    <Compile Include="Assets\Scripts\Enemy Scripts\BlueReaper\BlueReaperBehavior.cs" />
+    <Compile Include="Assets\Scripts\Enemy Scripts\BlueReaper\BlueReaperHealth.cs" />
     <Compile Include="Assets\Scripts\Enemy Scripts\EnemyPatrol.cs" />
     <Compile Include="Assets\Scripts\Enemy Scripts\EvilWizard Scripts\WizardBehavior.cs" />
     <Compile Include="Assets\Scripts\Enemy Scripts\FlipSprite.cs" />
+    <Compile Include="Assets\Scripts\Enemy Scripts\Goblin\GoblinBehavior.cs" />
+    <Compile Include="Assets\Scripts\Enemy Scripts\Goblin\GoblinHealth.cs" />
     <Compile Include="Assets\Scripts\Enemy Scripts\Reaper Scripts\ReaperAttack.cs" />
     <Compile Include="Assets\Scripts\Enemy Scripts\Reaper Scripts\ReaperBehavior.cs" />
     <Compile Include="Assets\Scripts\Enemy Scripts\Reaper Scripts\ReaperHealth.cs" />
