@@ -116,5 +116,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  lifeTime: 1.5
+  lifeTime: 1
   destroyEffect: {fileID: 0}
