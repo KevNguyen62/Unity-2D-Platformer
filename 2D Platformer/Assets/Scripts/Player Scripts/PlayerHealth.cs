@@ -6,12 +6,20 @@ using UnityEngine.SceneManagement;
 public class PlayerHealth : MonoBehaviour
 {
     public int health = 100;
-
     public GameObject deathEffect;
+
+    public HealthBar healthBar;
+
+
+    void Start()
+    {
+        healthBar.SetMaxHealth(health);
+    }
 
     public void TakeDamage(int damage)
     {
         health -= damage;
+        healthBar.SetHealth(health);
 
         StartCoroutine(DamageAnimation());
 
