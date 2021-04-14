@@ -74,6 +74,7 @@
     <Compile Include="Assets\Scripts\Enemy Scripts\Reaper Scripts\ReaperHealth.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\HealthBar.cs" />
+    <Compile Include="Assets\Scripts\Player Scripts\HeartPickup.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\PlayerCamera.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\PlayerMovement.cs" />
