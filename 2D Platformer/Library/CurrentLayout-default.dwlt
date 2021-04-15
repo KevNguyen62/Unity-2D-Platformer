@@ -371,10 +371,10 @@ MonoBehaviour:
       e32: 0
       e33: 1
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: 316bccadba4050a47beb483f1005ae51,
+  m_AnimatorController: {fileID: 9100000, guid: d45222f090e254a4a8a7402bd2129c08,
     type: 2}
   m_BreadCrumbs:
-  - m_Target: {fileID: 971508599485652678, guid: 316bccadba4050a47beb483f1005ae51,
+  - m_Target: {fileID: 7243628072643020130, guid: d45222f090e254a4a8a7402bd2129c08,
       type: 2}
     m_ScrollPosition: {x: 0, y: 0}
   stateMachineGraph: {fileID: 0}
@@ -427,20 +427,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Player Scripts
+    - Assets/Scripts/Enemy Scripts/Goblin
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Scripts/Player Scripts
+  - Assets/Scripts/Enemy Scripts/Goblin
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\nguye\CMPE-195-2D-Platformer\2D Platformer
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 314}
-    m_SelectedIDs: 00cc0000
-    m_LastClickedID: 52224
-    m_ExpandedIDs: 00000000e6cb0000e8cb0000eacb0000eccb0000eecb0000f0cb0000f2cb0000f4cb0000f6cb0000f8cb0000fecb000000ca9a3b
+    m_SelectedIDs: 4ecc0000
+    m_LastClickedID: 52302
+    m_ExpandedIDs: 0000000008cc00000acc00000ccc00000ecc000010cc000012cc000014cc000016cc000018cc00001acc000020cc000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -468,7 +468,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e6cb0000e8cb0000eacb0000eccb0000eecb0000f0cb0000f2cb0000f4cb0000f6cb0000f8cb0000
+    m_ExpandedIDs: 0000000008cc00000acc00000ccc00000ecc000010cc000012cc000014cc000016cc000018cc00001acc0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -590,10 +590,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
+      scrollPos: {x: 0, y: 96006}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: a4ceffff00d5ffff12d8ffff0cdcffff9ee3ffff04e4ffff64fbffff
+      m_ExpandedIDs: 64fbffff50b70000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -653,9 +653,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -21.161135, y: -35.079796, z: -1.7490234}
+    m_Target: {x: -24.2232, y: -34.377644, z: -8.175419}
     speed: 2
-    m_Value: {x: -21.161135, y: -35.079796, z: -1.7490234}
+    m_Value: {x: -24.128468, y: -34.54428, z: -8.139349}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -705,9 +705,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 3.9369838
+    m_Target: 8.375532
     speed: 2
-    m_Value: 3.9369838
+    m_Value: 8.014863
   m_Ortho:
     m_Target: 1
     speed: 2

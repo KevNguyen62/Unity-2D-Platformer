@@ -18,6 +18,7 @@ public class HeartPickup : MonoBehaviour
         if (playerHealth.currentHealth < 100)
         {
             Destroy(gameObject);
+            // Gets the current health and adds it by the health amount. Then update the health bar
             healthBar.SetHealth(playerHealth.currentHealth += healthAddAmount);
         }
     }
