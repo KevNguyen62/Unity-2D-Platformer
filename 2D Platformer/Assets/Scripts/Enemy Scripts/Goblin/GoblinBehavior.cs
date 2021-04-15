@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class GoblinBehavior : StateMachineBehaviour
 {
-    public float speed = 1f;
-    public float attackRange = 1f;
+    public float speed;
+    public float attackRange;
+    public float enemyDetectionRange;
+    public float playerDistance;
 
     Transform player;
     Rigidbody2D rb;
@@ -23,7 +25,12 @@ public class GoblinBehavior : StateMachineBehaviour
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         flipSprite.LookAtPlayer();
-        animator.transform.position = Vector2.MoveTowards(animator.transform.position, player.position, speed * Time.deltaTime);
+
+        playerDistance = Vector3.Distance(animator.transform.position, player.position);
+        if (playerDistance < enemyDetectionRange)
+        {
+            animator.transform.position = Vector2.MoveTowards(animator.transform.position, player.position, speed * Time.deltaTime);
+        }
 
         if (Vector2.Distance(player.position, rb.position) <= attackRange)
         {

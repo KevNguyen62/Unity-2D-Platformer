@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 64
+  controlID: 61
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 65
+  controlID: 62
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 66
+  controlID: 63
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -306,14 +306,14 @@ MonoBehaviour:
     - {fileID: -5906740051352218788, guid: 04f5c47d40f4bea4ba0c4d26012ef979, type: 2}
     - {fileID: 971508599485652678, guid: 316bccadba4050a47beb483f1005ae51, type: 2}
     m_ValueSerializationHelper:
-    - e00: 1.263657
+    - e00: 0.75051546
       e01: 0
       e02: 0
-      e03: 97.48578
+      e03: -7.5154724
       e10: 0
-      e11: 1.263657
+      e11: 0.75051546
       e12: 0
-      e13: 43.864845
+      e13: 165.40207
       e20: 0
       e21: 0
       e22: 1
@@ -427,19 +427,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Player Scripts
+    - Assets/Scripts/Enemy Scripts/Goblin
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Scripts/Player Scripts
+  - Assets/Scripts/Enemy Scripts/Goblin
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\nguye\CMPE-195-2D-Platformer\2D Platformer
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 314}
-    m_SelectedIDs: 50cc0000
-    m_LastClickedID: 52304
+    m_SelectedIDs: 4ecc0000
+    m_LastClickedID: 52302
     m_ExpandedIDs: 0000000008cc00000acc00000ccc00000ecc000010cc000012cc000014cc000016cc000018cc00001acc000020cc000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -590,10 +590,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
+      scrollPos: {x: 0, y: 96006}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 9ef6ffff64fbffffbe6f0000
+      m_ExpandedIDs: 64fbffff50b70000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -653,9 +653,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -22.905529, y: -35.08722, z: -0.31569508}
+    m_Target: {x: -24.2232, y: -34.377644, z: -8.175419}
     speed: 2
-    m_Value: {x: -22.905529, y: -35.08722, z: -0.31569508}
+    m_Value: {x: -24.128468, y: -34.54428, z: -8.139349}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -705,9 +705,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 3.178621
+    m_Target: 8.375532
     speed: 2
-    m_Value: 3.178621
+    m_Value: 8.014863
   m_Ortho:
     m_Target: 1
     speed: 2

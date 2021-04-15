@@ -92,6 +92,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 2
   attackRange: 1
+  enemyDetectionRange: 3
+  playerDistance: 0
 --- !u!91 &9100000
 AnimatorController:
   m_ObjectHideFlags: 0
