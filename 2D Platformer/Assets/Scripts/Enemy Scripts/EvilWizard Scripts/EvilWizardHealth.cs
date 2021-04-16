@@ -32,8 +32,10 @@ public class EvilWizardHealth : MonoBehaviour
 
     void Die()
     {
-        //Instantiate(deathEffect, transform.position, Quaternion.identity);
+        GameObject death = Instantiate(deathEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
+        // Destroys deathEffect gameobject after X seconds
+        Destroy(death, 3f);
     }
 
     void SpawnPortal()
