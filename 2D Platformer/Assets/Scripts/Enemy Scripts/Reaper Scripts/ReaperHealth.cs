@@ -7,6 +7,7 @@ public class ReaperHealth : MonoBehaviour
     public int health = 500;
 
     public GameObject deathEffect;
+    public GameObject portal;
 
     public bool isInvulnerable = false;
 
@@ -17,21 +18,22 @@ public class ReaperHealth : MonoBehaviour
 
         health -= damage;
 
-        if (health <= 200)
-        {
-            GetComponent<Animator>().SetBool("reaperAttack2", true);
-        }
-
         if (health <= 0)
         {
             Die();
+            SpawnPortal();
         }
     }
 
     void Die()
     {
-        Instantiate(deathEffect, transform.position, Quaternion.identity);
+        //Instantiate(deathEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
+    }
+
+    void SpawnPortal()
+    {
+        Instantiate(portal, transform.position, Quaternion.identity);
     }
 
 }

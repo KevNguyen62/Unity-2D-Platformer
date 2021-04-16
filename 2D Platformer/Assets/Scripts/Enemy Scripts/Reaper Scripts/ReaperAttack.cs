@@ -5,11 +5,12 @@ using UnityEngine;
 public class ReaperAttack : MonoBehaviour
 {
     public int attackDamage = 20;
-    public int enragedAttackDamage = 40;
 
     public Vector3 attackOffset;
     public float attackRange = 1f;
     public LayerMask attackMask;
+
+    public AudioSource reaperAttackSound;
 
     public void Attack()
     {
@@ -20,21 +21,10 @@ public class ReaperAttack : MonoBehaviour
         Collider2D colInfo = Physics2D.OverlapCircle(pos, attackRange, attackMask);
         if (colInfo != null)
         {
+
             colInfo.GetComponent<PlayerHealth>().TakeDamage(attackDamage);
         }
-    }
-
-    public void EnragedAttack()
-    {
-        Vector3 pos = transform.position;
-        pos += transform.right * attackOffset.x;
-        pos += transform.up * attackOffset.y;
-
-        Collider2D colInfo = Physics2D.OverlapCircle(pos, attackRange, attackMask);
-        if (colInfo != null)
-        {
-            colInfo.GetComponent<PlayerHealth>().TakeDamage(enragedAttackDamage);
-        }
+        reaperAttackSound.Play();
     }
 
     void OnDrawGizmosSelected()

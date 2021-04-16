@@ -27,8 +27,13 @@ public class Projectile : MonoBehaviour
             {
                 if (hitInfo.collider.CompareTag("Enemy"))
                 {
-                    //Enemy must take damage
-                    hitInfo.collider.GetComponent<OverworldEnemyHealth>().TakeDamage(damage);
+                    // Applies Damage to Overworld Enemies
+                    hitInfo.collider.GetComponent<EnemyHealth>().TakeDamage(damage);
+                }
+                else if (hitInfo.collider.CompareTag("ReaperBoss"))
+                {
+                    // Applies Damage to Reaper Boss
+                    hitInfo.collider.GetComponent<ReaperHealth>().TakeDamage(damage);
                 }
                 DestroyProjectile();
             }
