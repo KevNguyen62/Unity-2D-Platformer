@@ -521,6 +521,12 @@ TextureImporter:
   - first:
       213: 8771192105379333021
     second: Environment Textures_4
+  - first:
+      213: 124290513920194098
+    second: Environment Textures_5
+  - first:
+      213: 5336797185858818539
+    second: Environment Textures_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -4377,7 +4383,7 @@ TextureImporter:
         width: 14
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4385,6 +4391,48 @@ TextureImporter:
       bones: []
       spriteID: d9388d18fb889b970800000000000000
       internalID: 8771192105379333021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment Textures_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 756
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236f92b509199b100800000000000000
+      internalID: 124290513920194098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment Textures_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 572
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be15b65d3cc101a40800000000000000
+      internalID: 5336797185858818539
       vertices: []
       indices: 
       edges: []
