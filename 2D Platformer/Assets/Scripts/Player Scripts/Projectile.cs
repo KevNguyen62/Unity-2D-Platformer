@@ -35,6 +35,11 @@ public class Projectile : MonoBehaviour
                     // Applies Damage to Reaper Boss
                     hitInfo.collider.GetComponent<ReaperHealth>().TakeDamage(damage);
                 }
+                else if (hitInfo.collider.CompareTag("EvilWizardBoss"))
+                {
+                    // Applies Damage to Reaper Boss
+                    hitInfo.collider.GetComponent<EvilWizardHealth>().TakeDamage(damage);
+                }
                 DestroyProjectile();
             }
         }
