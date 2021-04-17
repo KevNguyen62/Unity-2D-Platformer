@@ -10,8 +10,9 @@ public class RougeKnightAttack : MonoBehaviour
     public float attackRange = 1f;
     public LayerMask attackMask;
 
-    public AudioSource rougeKnightAttackSound;
-
+    public AudioSource rougeKnightAttackSound1;
+    public AudioSource rougeKnightAttackSound2;
+    public AudioSource rougeKnightAttackSound3;
     public void Attack()
     {
         Vector3 pos = transform.position;
@@ -21,10 +22,8 @@ public class RougeKnightAttack : MonoBehaviour
         Collider2D colInfo = Physics2D.OverlapCircle(pos, attackRange, attackMask);
         if (colInfo != null)
         {
-
             colInfo.GetComponent<PlayerHealth>().TakeDamage(attackDamage);
         }
-        rougeKnightAttackSound.Play();
     }
 
     void OnDrawGizmosSelected()
@@ -34,5 +33,19 @@ public class RougeKnightAttack : MonoBehaviour
         pos += transform.up * attackOffset.y;
 
         Gizmos.DrawWireSphere(pos, attackRange);
+    }
+
+    public void rougeKnightAttack1()
+    {
+        rougeKnightAttackSound1.Play();
+    }
+
+    public void rougeKnightAttack2()
+    {
+        rougeKnightAttackSound2.Play();
+    }
+    public void rougeKnightAttack3()
+    {
+        rougeKnightAttackSound3.Play();
     }
 }
