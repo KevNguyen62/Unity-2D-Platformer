@@ -11,6 +11,8 @@ public class PlayerHealth : MonoBehaviour
 
     public HealthBar healthBar;
 
+    public AudioSource playerDamageSound;
+
     void Start()
     {
         currentHealth = maxHealth;
@@ -21,6 +23,8 @@ public class PlayerHealth : MonoBehaviour
     {
         currentHealth -= damage;
         healthBar.SetHealth(currentHealth);
+
+        playerDamageSound.Play();
 
         StartCoroutine(DamageAnimation());
 
