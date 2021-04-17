@@ -78,6 +78,7 @@
     <Compile Include="Assets\Scripts\Enemy Scripts\Rouge Knight\RougeKnightAttack.cs" />
     <Compile Include="Assets\Scripts\Enemy Scripts\Rouge Knight\RougeKnightBehavior.cs" />
     <Compile Include="Assets\Scripts\Enemy Scripts\Rouge Knight\RougeKnightHealth.cs" />
+    <Compile Include="Assets\Scripts\Enemy Scripts\Slime\SlimeBehavior.cs" />
     <Compile Include="Assets\Scripts\Enemy Scripts\VaseBreak.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\HealthBar.cs" />
