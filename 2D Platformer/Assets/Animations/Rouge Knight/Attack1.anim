@@ -2275,7 +2275,7 @@ AnimationClip:
     intParameter: 0
     messageOptions: 0
   - time: 0.33333334
-    functionName: rougeKnightAttack1
+    functionName: rougeKnightAttack1Sound
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
@@ -2289,7 +2289,7 @@ AnimationClip:
     intParameter: 0
     messageOptions: 0
   - time: 0.6666667
-    functionName: rougeKnightAttack2
+    functionName: rougeKnightAttack2Sound
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
@@ -2303,7 +2303,7 @@ AnimationClip:
     intParameter: 0
     messageOptions: 0
   - time: 1.0833334
-    functionName: rougeKnightAttack3
+    functionName: rougeKnightAttack3Sound
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
