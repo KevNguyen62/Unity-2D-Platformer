@@ -9,6 +9,7 @@ TagManager:
   - EvilWizardBoss
   - Vase
   - RougeKnight
+  - GameMaster
   layers:
   - Default
   - TransparentFX
