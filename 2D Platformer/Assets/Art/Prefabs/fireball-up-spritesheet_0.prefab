@@ -118,8 +118,9 @@ MonoBehaviour:
   speed: 10
   distance: 0.5
   damage: 1
-  lifeTime: 1
+  lifeTime: 0.2
   whatIsSolid:
     serializedVersion: 2
     m_Bits: 1024
-  destroyEffect: {fileID: 0}
+  destroyEffect: {fileID: 1657798570406232, guid: 9fdccf5f1e992f14b82ed4bf959fc788,
+    type: 3}
