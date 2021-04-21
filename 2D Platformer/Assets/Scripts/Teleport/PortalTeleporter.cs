@@ -7,12 +7,15 @@ public class PortalTeleporter : MonoBehaviour
     public GameObject PortalDestination;
     public GameObject Player;
 
+    public AudioSource teleportSound;
+
     public void OnTriggerEnter2D(Collider2D collision)
     {
         // If player is in the portal
         if (collision.gameObject.tag == "Player")
         {
             StartCoroutine(Teleport());
+            teleportSound.Play();
         }
     }
 

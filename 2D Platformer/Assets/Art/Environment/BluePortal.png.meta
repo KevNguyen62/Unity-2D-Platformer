@@ -1,0 +1,2720 @@
+fileFormatVersion: 2
+guid: 2f5f04fdccd43ea4e951c154c3d6d764
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6601591921341775230
+    second: BluePortal_0
+  - first:
+      213: 3182793796970480283
+    second: BluePortal_1
+  - first:
+      213: -1119015769177878572
+    second: BluePortal_2
+  - first:
+      213: 1927825342090574122
+    second: BluePortal_3
+  - first:
+      213: 3416369264719700694
+    second: BluePortal_4
+  - first:
+      213: 876942101835337025
+    second: BluePortal_5
+  - first:
+      213: 7308754708745269927
+    second: BluePortal_6
+  - first:
+      213: 7116331999305889722
+    second: BluePortal_7
+  - first:
+      213: -6581419017781886321
+    second: BluePortal_8
+  - first:
+      213: -7141835871206140834
+    second: BluePortal_9
+  - first:
+      213: 7434189289368072006
+    second: BluePortal_10
+  - first:
+      213: 8429637261435576888
+    second: BluePortal_11
+  - first:
+      213: 7180659374995237092
+    second: BluePortal_12
+  - first:
+      213: 4198809932371388215
+    second: BluePortal_13
+  - first:
+      213: -2654107235501938978
+    second: BluePortal_14
+  - first:
+      213: -7764620298243509609
+    second: BluePortal_15
+  - first:
+      213: -6661994572340782681
+    second: BluePortal_16
+  - first:
+      213: -5304317456990987675
+    second: BluePortal_17
+  - first:
+      213: -8606115588167811152
+    second: BluePortal_18
+  - first:
+      213: -7813763751657138979
+    second: BluePortal_19
+  - first:
+      213: 854338985171935390
+    second: BluePortal_20
+  - first:
+      213: 828165757712646829
+    second: BluePortal_21
+  - first:
+      213: 6213331929346553807
+    second: BluePortal_22
+  - first:
+      213: -4763698077208026449
+    second: BluePortal_23
+  - first:
+      213: 3006072897102974836
+    second: BluePortal_24
+  - first:
+      213: 4766152616470054440
+    second: BluePortal_25
+  - first:
+      213: -5748141350422473094
+    second: BluePortal_26
+  - first:
+      213: 6266978607426966333
+    second: BluePortal_27
+  - first:
+      213: 5346778761094792747
+    second: BluePortal_28
+  - first:
+      213: -3378435890956935832
+    second: BluePortal_29
+  - first:
+      213: -2443367008335211335
+    second: BluePortal_30
+  - first:
+      213: 3002632149427230793
+    second: BluePortal_31
+  - first:
+      213: 4253760820022034558
+    second: BluePortal_32
+  - first:
+      213: 1493159646875039977
+    second: BluePortal_33
+  - first:
+      213: -2574805858325958454
+    second: BluePortal_34
+  - first:
+      213: -8286167665166401427
+    second: BluePortal_35
+  - first:
+      213: 6014636243874988882
+    second: BluePortal_36
+  - first:
+      213: -4572268706767963936
+    second: BluePortal_37
+  - first:
+      213: 1367745105516413061
+    second: BluePortal_38
+  - first:
+      213: 3132412232276012898
+    second: BluePortal_39
+  - first:
+      213: -1939963442733129252
+    second: BluePortal_40
+  - first:
+      213: 2686163379136852075
+    second: BluePortal_41
+  - first:
+      213: -6841901622972556024
+    second: BluePortal_42
+  - first:
+      213: -8612952462228270814
+    second: BluePortal_43
+  - first:
+      213: 6757188082408802712
+    second: BluePortal_44
+  - first:
+      213: 5890397007951832256
+    second: BluePortal_45
+  - first:
+      213: 3540540414126018456
+    second: BluePortal_46
+  - first:
+      213: 1582291344750800566
+    second: BluePortal_47
+  - first:
+      213: -6491198058168202422
+    second: BluePortal_48
+  - first:
+      213: 1726104157987074161
+    second: BluePortal_49
+  - first:
+      213: -4866452355007527602
+    second: BluePortal_50
+  - first:
+      213: 3237726175718668751
+    second: BluePortal_51
+  - first:
+      213: 5543378890311551975
+    second: BluePortal_52
+  - first:
+      213: -701749540675002354
+    second: BluePortal_53
+  - first:
+      213: 591688478941713556
+    second: BluePortal_54
+  - first:
+      213: 8227996608945830039
+    second: BluePortal_55
+  - first:
+      213: 4233371377356482128
+    second: BluePortal_56
+  - first:
+      213: -6379616329654829360
+    second: BluePortal_57
+  - first:
+      213: -2359674055947254535
+    second: BluePortal_58
+  - first:
+      213: -5398634906462448315
+    second: BluePortal_59
+  - first:
+      213: -7438341935294406607
+    second: BluePortal_60
+  - first:
+      213: 512353452374916785
+    second: BluePortal_61
+  - first:
+      213: 6739002786328032051
+    second: BluePortal_62
+  - first:
+      213: -2470904304604877151
+    second: BluePortal_63
+  - first:
+      213: -440718462974604576
+    second: BluePortal_64
+  - first:
+      213: -9137427404826147236
+    second: BluePortal_65
+  - first:
+      213: -8898899381877140369
+    second: BluePortal_66
+  - first:
+      213: 7982919585545491368
+    second: BluePortal_67
+  - first:
+      213: -8930743031608486701
+    second: BluePortal_68
+  - first:
+      213: -8750655840005065108
+    second: BluePortal_69
+  - first:
+      213: 2182901413430369890
+    second: BluePortal_70
+  - first:
+      213: 1645359482028891512
+    second: BluePortal_71
+  - first:
+      213: 1126375908749103343
+    second: BluePortal_72
+  - first:
+      213: 6647698238896844786
+    second: BluePortal_73
+  - first:
+      213: -420330910180008524
+    second: BluePortal_74
+  - first:
+      213: -7375950759985544560
+    second: BluePortal_75
+  - first:
+      213: 330951599557780974
+    second: BluePortal_76
+  - first:
+      213: 6040274062766741228
+    second: BluePortal_77
+  - first:
+      213: 7746049750403476673
+    second: BluePortal_78
+  - first:
+      213: -5211880556608036774
+    second: BluePortal_79
+  - first:
+      213: 5396655621307830906
+    second: BluePortal_80
+  - first:
+      213: -1903966597421052583
+    second: BluePortal_81
+  - first:
+      213: 8411223681725374230
+    second: BluePortal_82
+  - first:
+      213: 3167887240883161426
+    second: BluePortal_83
+  - first:
+      213: -3359287618977006555
+    second: BluePortal_84
+  - first:
+      213: 5855854450644795827
+    second: BluePortal_85
+  - first:
+      213: -8101632015556011060
+    second: BluePortal_86
+  - first:
+      213: 2527196977771503984
+    second: BluePortal_87
+  - first:
+      213: -7544050206293433064
+    second: BluePortal_88
+  - first:
+      213: -4544946176543243056
+    second: BluePortal_89
+  - first:
+      213: 8109253245944488202
+    second: BluePortal_90
+  - first:
+      213: -8865959901576806103
+    second: BluePortal_91
+  - first:
+      213: 114149534276510259
+    second: BluePortal_92
+  - first:
+      213: 4370695089486037509
+    second: BluePortal_93
+  - first:
+      213: -7624265518921508788
+    second: BluePortal_94
+  - first:
+      213: -3097393813415190617
+    second: BluePortal_95
+  - first:
+      213: 3579528890251194332
+    second: BluePortal_96
+  - first:
+      213: -6280641332173278032
+    second: BluePortal_97
+  - first:
+      213: 6281115060535965448
+    second: BluePortal_98
+  - first:
+      213: 3214485567369646776
+    second: BluePortal_99
+  - first:
+      213: 1576960570294600075
+    second: BluePortal_100
+  - first:
+      213: 3493788288531534365
+    second: BluePortal_101
+  - first:
+      213: 4038544743540245580
+    second: BluePortal_102
+  - first:
+      213: 2313387675340301505
+    second: BluePortal_103
+  - first:
+      213: -6862403894454940960
+    second: BluePortal_104
+  - first:
+      213: 8581370311334921749
+    second: BluePortal_105
+  - first:
+      213: -2531643646660363769
+    second: BluePortal_106
+  - first:
+      213: -1608827724891760063
+    second: BluePortal_107
+  - first:
+      213: -6433413474392418461
+    second: BluePortal_108
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BluePortal_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2008
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282c550df1f6264a0800000000000000
+      internalID: -6601591921341775230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2003
+        width: 175
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b920ebd581e8b2c20800000000000000
+      internalID: 3182793796970480283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_2
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2001
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df871436157870f0800000000000000
+      internalID: -1119015769177878572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_3
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2007
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29fd404fe201ca10800000000000000
+      internalID: 1927825342090574122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_4
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2006
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d22e2ddeb1696f20800000000000000
+      internalID: 3416369264719700694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_5
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 2011
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dca7402368b2c00800000000000000
+      internalID: 876942101835337025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_6
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 2010
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2b9352fa9ed6560800000000000000
+      internalID: 7308754708745269927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_7
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 2003
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab77f5adf3a42c260800000000000000
+      internalID: 7116331999305889722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_8
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 2000
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f824c1fe54a1aa4a0800000000000000
+      internalID: -6581419017781886321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_9
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 2010
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e549d9c3d1a13ec90800000000000000
+      internalID: -7141835871206140834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_10
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 2008
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f2cc945cb8b2760800000000000000
+      internalID: 7434189289368072006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1811
+        width: 179
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832a3495d661cf470800000000000000
+      internalID: 8429637261435576888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1807
+        width: 184
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e86ba328a3d6a360800000000000000
+      internalID: 7180659374995237092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_13
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1823
+        width: 189
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737e062236b254a30800000000000000
+      internalID: 4198809932371388215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_14
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1824
+        width: 177
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6ec180887ba2bd0800000000000000
+      internalID: -2654107235501938978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_15
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1821
+        width: 199
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792786b3af68e3490800000000000000
+      internalID: -7764620298243509609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_16
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1818
+        width: 185
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a91c04bb37db83a0800000000000000
+      internalID: -6661994572340782681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_17
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1822
+        width: 180
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a162850674366b0800000000000000
+      internalID: -5304317456990987675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_18
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1819
+        width: 176
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf3e4f387fe09880800000000000000
+      internalID: -8606115588167811152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_19
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1818
+        width: 181
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd417a7544fef8390800000000000000
+      internalID: -7813763751657138979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_20
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1818
+        width: 181
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90e0f0d7c83bdb00800000000000000
+      internalID: 854338985171935390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_21
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1812
+        width: 189
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2ca9b6e5c3e7b00800000000000000
+      internalID: 828165757712646829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1608
+        width: 182
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc73b4858703a3650800000000000000
+      internalID: 6213331929346553807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1611
+        width: 196
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2edc286d1f3edb0800000000000000
+      internalID: -4763698077208026449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_24
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1607
+        width: 177
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f80c08f57b7b920800000000000000
+      internalID: 3006072897102974836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_25
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1611
+        width: 179
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8260ff17d86c42240800000000000000
+      internalID: 4766152616470054440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_26
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1608
+        width: 170
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76955195ef7a30b0800000000000000
+      internalID: -5748141350422473094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_27
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1603
+        width: 169
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3318aee6d7c8f650800000000000000
+      internalID: 6266978607426966333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_29
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1601
+        width: 177
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dd417f4726d11d0800000000000000
+      internalID: -3378435890956935832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_30
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1613
+        width: 186
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b45544c6aa671ed0800000000000000
+      internalID: -2443367008335211335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_31
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1612
+        width: 182
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94817c1080e7ba920800000000000000
+      internalID: 3002632149427230793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_32
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1606
+        width: 167
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7043ecade4680b30800000000000000
+      internalID: 4253760820022034558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_33
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1606
+        width: 174
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e83fe8a9c4c8b410800000000000000
+      internalID: 1493159646875039977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1404
+        width: 174
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0f2e8b6b3744cd0800000000000000
+      internalID: -2574805858325958454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_35
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1579
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60cd68196e910d80800000000000000
+      internalID: -8286167665166401427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_36
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1402
+        width: 176
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253cb510cc7487350800000000000000
+      internalID: 6014636243874988882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_37
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1412
+        width: 180
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8f57b06d90c80c0800000000000000
+      internalID: -4572268706767963936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_38
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1407
+        width: 170
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580c5954de43bf210800000000000000
+      internalID: 1367745105516413061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_39
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1403
+        width: 182
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f66ea3450987b20800000000000000
+      internalID: 3132412232276012898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_40
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1401
+        width: 172
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1e5a6f68dd315e0800000000000000
+      internalID: -1939963442733129252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_41
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1407
+        width: 166
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b607d168c5b274520800000000000000
+      internalID: 2686163379136852075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_42
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1401
+        width: 170
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d5d8e49beac01a0800000000000000
+      internalID: -6841901622972556024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_43
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1408
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221de857e55a87880800000000000000
+      internalID: -8612952462228270814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_44
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1407
+        width: 165
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899ca7482ca56cd50800000000000000
+      internalID: 6757188082408802712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_45
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1408
+        width: 170
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c42efcbed4eeb150800000000000000
+      internalID: 5890397007951832256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1205
+        width: 173
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f45e08fb6822130800000000000000
+      internalID: 3540540414126018456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_47
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1204
+        width: 176
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beeb0f389d65f510800000000000000
+      internalID: 1582291344750800566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_48
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1200
+        width: 168
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bcd2802c1aae5a0800000000000000
+      internalID: -6491198058168202422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_49
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1204
+        width: 173
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170f42e169a54f710800000000000000
+      internalID: 1726104157987074161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_50
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1196
+        width: 178
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45c96fdd53e67cb0800000000000000
+      internalID: -4866452355007527602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_51
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1214
+        width: 173
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9f1b77dc6beec20800000000000000
+      internalID: 3237726175718668751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_52
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1217
+        width: 181
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb4b6c0bb90eec40800000000000000
+      internalID: 5543378890311551975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_53
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1213
+        width: 186
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00e5c2c282e246f0800000000000000
+      internalID: -701749540675002354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_54
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1221
+        width: 181
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49413056989163800800000000000000
+      internalID: 591688478941713556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_55
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1224
+        width: 185
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798b5517257bf2270800000000000000
+      internalID: 8227996608945830039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_56
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1220
+        width: 180
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056a3ad96d4ffba30800000000000000
+      internalID: 4233371377356482128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1018
+        width: 187
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de74a3bfbc0777a0800000000000000
+      internalID: -6379616329654829360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_58
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1014
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f40f8db2f0c04fd0800000000000000
+      internalID: -2359674055947254535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_59
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1014
+        width: 163
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5451840e7223415b0800000000000000
+      internalID: -5398634906462448315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_60
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1010
+        width: 168
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130a2ec7b63b5c890800000000000000
+      internalID: -7438341935294406607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_61
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1007
+        width: 166
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be704810ce3c1700800000000000000
+      internalID: 512353452374916785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_62
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1005
+        width: 172
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3333373545fb58d50800000000000000
+      internalID: 6739002786328032051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_63
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1001
+        width: 171
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeea0a50a595bdd0800000000000000
+      internalID: -2470904304604877151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_64
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1003
+        width: 177
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea417894e042e9f0800000000000000
+      internalID: -440718462974604576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_65
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1009
+        width: 186
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c560b6eff26513180800000000000000
+      internalID: -9137427404826147236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_66
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1004
+        width: 175
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64154b1922c08480800000000000000
+      internalID: -8898899381877140369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_67
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1000
+        width: 170
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a392f6511709ce60800000000000000
+      internalID: 7982919585545491368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_68
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 806
+        width: 177
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d45ea4a780af0480800000000000000
+      internalID: -8930743031608486701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_69
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 823
+        width: 176
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66fcc060ec6f8680800000000000000
+      internalID: -8750655840005065108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_70
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 820
+        width: 177
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e173f15493b4e10800000000000000
+      internalID: 2182901413430369890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_71
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 817
+        width: 178
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d172e3bbd75d610800000000000000
+      internalID: 1645359482028891512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_72
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 817
+        width: 184
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe05c84dbe0b1af00800000000000000
+      internalID: 1126375908749103343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_73
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 812
+        width: 191
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffaf67c35e514c50800000000000000
+      internalID: 6647698238896844786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_74
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 808
+        width: 189
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd9a92a34faa2af0800000000000000
+      internalID: -420330910180008524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_75
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 805
+        width: 189
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0920a4efcdb53a990800000000000000
+      internalID: -7375950759985544560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_76
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 800
+        width: 182
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee52d71f9b6c79400800000000000000
+      internalID: 330951599557780974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_77
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 806
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce69731e14d53d350800000000000000
+      internalID: 6040274062766741228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_78
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 811
+        width: 170
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc6d49253f7f7b60800000000000000
+      internalID: 7746049750403476673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_79
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 609
+        width: 178
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50ec9b5f3eaba7b0800000000000000
+      internalID: -5211880556608036774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_80
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 605
+        width: 179
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a721b23e1b5c4ea40800000000000000
+      internalID: 5396655621307830906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_81
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 603
+        width: 161
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d4280a770c395e0800000000000000
+      internalID: -1903966597421052583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_82
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 604
+        width: 161
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f189bbf5baab470800000000000000
+      internalID: 8411223681725374230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_83
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 607
+        width: 168
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259455159a896fb20800000000000000
+      internalID: 3167887240883161426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_84
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 606
+        width: 167
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cf18475b96161d0800000000000000
+      internalID: -3359287618977006555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_85
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 616
+        width: 173
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1c213e89c244150800000000000000
+      internalID: 5855854450644795827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_87
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 619
+        width: 176
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071e289f248621320800000000000000
+      internalID: 2527196977771503984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_88
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 618
+        width: 181
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815ea26be462e4790800000000000000
+      internalID: -7544050206293433064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_89
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 616
+        width: 185
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4ced7588b1de0c0800000000000000
+      internalID: -4544946176543243056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_90
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 617
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01643eccdad98070800000000000000
+      internalID: 8109253245944488202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_91
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 676
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92148a18178c5f480800000000000000
+      internalID: -8865959901576806103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_92
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 414
+        width: 176
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332e3d9856a859100800000000000000
+      internalID: 114149534276510259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_93
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 415
+        width: 176
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5020c56e604d7ac30800000000000000
+      internalID: 4370695089486037509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_94
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 415
+        width: 187
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c489c67d7ea213690800000000000000
+      internalID: -7624265518921508788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_95
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 408
+        width: 186
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af15e5ccb8d305d0800000000000000
+      internalID: -3097393813415190617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_96
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 404
+        width: 164
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfabae7f8a0da130800000000000000
+      internalID: 3579528890251194332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_97
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 403
+        width: 169
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4fc221cfda6d8a0800000000000000
+      internalID: -6280641332173278032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_98
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 407
+        width: 162
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8073a986ed00b2750800000000000000
+      internalID: 6281115060535965448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_99
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 408
+        width: 166
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b210baa7952c9c20800000000000000
+      internalID: 3214485567369646776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_100
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 408
+        width: 170
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b810539984d72e510800000000000000
+      internalID: 1576960570294600075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_101
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 404
+        width: 166
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12975200fd6c7030800000000000000
+      internalID: 3493788288531534365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_102
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 408
+        width: 164
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44cc301c0bcb0830800000000000000
+      internalID: 4038544743540245580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 206
+        width: 169
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4ec6875ddca1020800000000000000
+      internalID: 2313387675340301505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_104
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 207
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea81cd3408d3c0a0800000000000000
+      internalID: -6862403894454940960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_105
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 201
+        width: 170
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516833505d6271770800000000000000
+      internalID: 8581370311334921749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_106
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 203
+        width: 175
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a3fee348bcddcd0800000000000000
+      internalID: -2531643646660363769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_107
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 201
+        width: 177
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ad60945bb4ca9e0800000000000000
+      internalID: -1608827724891760063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_108
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 211
+        width: 182
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367d0add78ce7b6a0800000000000000
+      internalID: -6433413474392418461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_28
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1775
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2688ab64f2933a40800000000000000
+      internalID: 5346778761094792747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePortal_86
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 777
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb1adb2b98319f80800000000000000
+      internalID: -8101632015556011060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
