@@ -8,6 +8,8 @@ public class HeartPickup : MonoBehaviour
     public HealthBar healthBar;
     public int healthAddAmount = 20;
 
+    public AudioSource heartPickupSound;
+
     private void Awake()
     {
         playerHealth = FindObjectOfType<PlayerHealth>();
@@ -20,6 +22,7 @@ public class HeartPickup : MonoBehaviour
             Destroy(gameObject);
             // Gets the current health and adds it by the health amount. Then update the health bar
             healthBar.SetHealth(playerHealth.currentHealth += healthAddAmount);
+            heartPickupSound.Play();
         }
     }
 }
