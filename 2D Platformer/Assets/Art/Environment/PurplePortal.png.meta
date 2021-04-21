@@ -1,0 +1,4424 @@
+fileFormatVersion: 2
+guid: 7693b448064b1c449acdff1bac51178d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1991807578920059006
+    second: PurplePortal_0
+  - first:
+      213: -8189316773030459927
+    second: PurplePortal_1
+  - first:
+      213: 44239343750570704
+    second: PurplePortal_2
+  - first:
+      213: 3827010882102929396
+    second: PurplePortal_3
+  - first:
+      213: -4039046684027468689
+    second: PurplePortal_4
+  - first:
+      213: -6748330068574157972
+    second: PurplePortal_5
+  - first:
+      213: 3446622677836637029
+    second: PurplePortal_6
+  - first:
+      213: 8066622210735123761
+    second: PurplePortal_7
+  - first:
+      213: 723569700609878508
+    second: PurplePortal_8
+  - first:
+      213: 477301761610278165
+    second: PurplePortal_9
+  - first:
+      213: 4022878137748239940
+    second: PurplePortal_10
+  - first:
+      213: -1095474858278433354
+    second: PurplePortal_11
+  - first:
+      213: -4234684167541697424
+    second: PurplePortal_12
+  - first:
+      213: 2744364055914137469
+    second: PurplePortal_13
+  - first:
+      213: 434447128534614684
+    second: PurplePortal_14
+  - first:
+      213: -5835201159873484668
+    second: PurplePortal_15
+  - first:
+      213: -1384780770489244457
+    second: PurplePortal_16
+  - first:
+      213: 8329263926488031490
+    second: PurplePortal_17
+  - first:
+      213: 5530716378059330701
+    second: PurplePortal_18
+  - first:
+      213: -5362641619723253529
+    second: PurplePortal_19
+  - first:
+      213: 567397251322165729
+    second: PurplePortal_20
+  - first:
+      213: 588312890614584028
+    second: PurplePortal_21
+  - first:
+      213: -7329127213077080417
+    second: PurplePortal_22
+  - first:
+      213: 8860007406285273198
+    second: PurplePortal_23
+  - first:
+      213: -2330564297743101287
+    second: PurplePortal_24
+  - first:
+      213: 4760330934211336366
+    second: PurplePortal_25
+  - first:
+      213: 6606679553182921253
+    second: PurplePortal_26
+  - first:
+      213: -1792174819881571695
+    second: PurplePortal_27
+  - first:
+      213: -3436975147420753419
+    second: PurplePortal_28
+  - first:
+      213: 1715740987286309096
+    second: PurplePortal_29
+  - first:
+      213: 4073822020027237800
+    second: PurplePortal_30
+  - first:
+      213: 3963212574762244908
+    second: PurplePortal_31
+  - first:
+      213: -667727958971158357
+    second: PurplePortal_32
+  - first:
+      213: -1664273836425871829
+    second: PurplePortal_33
+  - first:
+      213: 3151700741554017433
+    second: PurplePortal_34
+  - first:
+      213: -3786325796266933558
+    second: PurplePortal_35
+  - first:
+      213: 4798200279237628604
+    second: PurplePortal_36
+  - first:
+      213: 508822297711437470
+    second: PurplePortal_37
+  - first:
+      213: 3428769076291351863
+    second: PurplePortal_38
+  - first:
+      213: 4205564816666304768
+    second: PurplePortal_39
+  - first:
+      213: -160460793062214187
+    second: PurplePortal_40
+  - first:
+      213: -999345473986966547
+    second: PurplePortal_41
+  - first:
+      213: 2657677129208957515
+    second: PurplePortal_42
+  - first:
+      213: 5576106625831562669
+    second: PurplePortal_43
+  - first:
+      213: 2385614879912082699
+    second: PurplePortal_44
+  - first:
+      213: -4026815287069637230
+    second: PurplePortal_45
+  - first:
+      213: 2357465570323287275
+    second: PurplePortal_46
+  - first:
+      213: -6259356605670952570
+    second: PurplePortal_47
+  - first:
+      213: -6061488398865575909
+    second: PurplePortal_48
+  - first:
+      213: -169420354113568626
+    second: PurplePortal_49
+  - first:
+      213: -3407480663818649933
+    second: PurplePortal_50
+  - first:
+      213: -7260094224422697655
+    second: PurplePortal_51
+  - first:
+      213: 1909138402119429108
+    second: PurplePortal_52
+  - first:
+      213: 7717911743116197671
+    second: PurplePortal_53
+  - first:
+      213: 7827346496455327169
+    second: PurplePortal_54
+  - first:
+      213: -1092417896754208609
+    second: PurplePortal_55
+  - first:
+      213: -5477929433772711973
+    second: PurplePortal_56
+  - first:
+      213: -8767377891419378389
+    second: PurplePortal_57
+  - first:
+      213: 201074175478931449
+    second: PurplePortal_58
+  - first:
+      213: -5087432108546848785
+    second: PurplePortal_59
+  - first:
+      213: 7078992559489341681
+    second: PurplePortal_60
+  - first:
+      213: -6504488088366362165
+    second: PurplePortal_61
+  - first:
+      213: -680607992797500370
+    second: PurplePortal_62
+  - first:
+      213: 1166058656771109228
+    second: PurplePortal_63
+  - first:
+      213: 8899057826347900682
+    second: PurplePortal_64
+  - first:
+      213: -7845528448272038984
+    second: PurplePortal_65
+  - first:
+      213: 3174215276856580950
+    second: PurplePortal_66
+  - first:
+      213: 6178174602718382896
+    second: PurplePortal_67
+  - first:
+      213: -1884792744030778702
+    second: PurplePortal_68
+  - first:
+      213: 349323559708605456
+    second: PurplePortal_69
+  - first:
+      213: 2114161624501639232
+    second: PurplePortal_70
+  - first:
+      213: -277127033756353739
+    second: PurplePortal_71
+  - first:
+      213: -596333054895964719
+    second: PurplePortal_72
+  - first:
+      213: 7786114485252814922
+    second: PurplePortal_73
+  - first:
+      213: 4587648027969040521
+    second: PurplePortal_74
+  - first:
+      213: -2965932751509774854
+    second: PurplePortal_75
+  - first:
+      213: -276130430461572198
+    second: PurplePortal_76
+  - first:
+      213: -2492931648534139126
+    second: PurplePortal_77
+  - first:
+      213: -9147065958307805609
+    second: PurplePortal_78
+  - first:
+      213: 4539460068859023475
+    second: PurplePortal_79
+  - first:
+      213: 8704448561505314875
+    second: PurplePortal_80
+  - first:
+      213: -6505822309707550122
+    second: PurplePortal_81
+  - first:
+      213: 9045617756598789368
+    second: PurplePortal_82
+  - first:
+      213: -1427399046076122531
+    second: PurplePortal_83
+  - first:
+      213: 2877153883893823641
+    second: PurplePortal_84
+  - first:
+      213: -4678231281743630155
+    second: PurplePortal_85
+  - first:
+      213: 5556904460570066086
+    second: PurplePortal_86
+  - first:
+      213: 6510137866035950140
+    second: PurplePortal_87
+  - first:
+      213: 5236724361660118163
+    second: PurplePortal_88
+  - first:
+      213: -2142847529683457400
+    second: PurplePortal_89
+  - first:
+      213: -8399827899871240713
+    second: PurplePortal_90
+  - first:
+      213: -4876039354081247304
+    second: PurplePortal_91
+  - first:
+      213: 856520525991358410
+    second: PurplePortal_92
+  - first:
+      213: 6556484385373765976
+    second: PurplePortal_93
+  - first:
+      213: -1555591730842684457
+    second: PurplePortal_94
+  - first:
+      213: -1403806245890938767
+    second: PurplePortal_95
+  - first:
+      213: -2871701452316497003
+    second: PurplePortal_96
+  - first:
+      213: 6090390876136029544
+    second: PurplePortal_97
+  - first:
+      213: -1628187602796066186
+    second: PurplePortal_98
+  - first:
+      213: 2781317855400406403
+    second: PurplePortal_99
+  - first:
+      213: 3850883262190520488
+    second: PurplePortal_100
+  - first:
+      213: 8563945137934459246
+    second: PurplePortal_101
+  - first:
+      213: -9128989657444258363
+    second: PurplePortal_102
+  - first:
+      213: 7330265173512281395
+    second: PurplePortal_103
+  - first:
+      213: 6398464800448370810
+    second: PurplePortal_104
+  - first:
+      213: -277976583175337529
+    second: PurplePortal_105
+  - first:
+      213: -2272116506967546365
+    second: PurplePortal_106
+  - first:
+      213: 7458143144858706779
+    second: PurplePortal_107
+  - first:
+      213: -1280121851915529398
+    second: PurplePortal_108
+  - first:
+      213: 8168368082567139024
+    second: PurplePortal_109
+  - first:
+      213: -8227187773773593800
+    second: PurplePortal_110
+  - first:
+      213: 4816982193634676813
+    second: PurplePortal_111
+  - first:
+      213: 689318627096569734
+    second: PurplePortal_112
+  - first:
+      213: 7505883700531018009
+    second: PurplePortal_113
+  - first:
+      213: 5911151916527442299
+    second: PurplePortal_114
+  - first:
+      213: -8041476814575066117
+    second: PurplePortal_115
+  - first:
+      213: -5320423124674741028
+    second: PurplePortal_116
+  - first:
+      213: 603563401620732857
+    second: PurplePortal_117
+  - first:
+      213: -1256406523395199167
+    second: PurplePortal_118
+  - first:
+      213: -1797343545576239723
+    second: PurplePortal_119
+  - first:
+      213: 7449586043985586611
+    second: PurplePortal_120
+  - first:
+      213: -1600901520843413501
+    second: PurplePortal_121
+  - first:
+      213: 8263691467164130815
+    second: PurplePortal_122
+  - first:
+      213: -2303067970192538529
+    second: PurplePortal_123
+  - first:
+      213: 2043645778207700115
+    second: PurplePortal_124
+  - first:
+      213: 6534949031536949155
+    second: PurplePortal_125
+  - first:
+      213: 7331909170163298311
+    second: PurplePortal_126
+  - first:
+      213: -7457728941929623987
+    second: PurplePortal_127
+  - first:
+      213: 1833407515295054760
+    second: PurplePortal_128
+  - first:
+      213: 6721383044797779995
+    second: PurplePortal_129
+  - first:
+      213: 3520836320253032736
+    second: PurplePortal_130
+  - first:
+      213: 2394105852870013653
+    second: PurplePortal_131
+  - first:
+      213: 2743994802363005017
+    second: PurplePortal_132
+  - first:
+      213: 2581159165833451213
+    second: PurplePortal_133
+  - first:
+      213: -890953294361966829
+    second: PurplePortal_134
+  - first:
+      213: -5183102622834469850
+    second: PurplePortal_135
+  - first:
+      213: -4543093924597853801
+    second: PurplePortal_136
+  - first:
+      213: 7035446620864631879
+    second: PurplePortal_137
+  - first:
+      213: -158425058224381584
+    second: PurplePortal_138
+  - first:
+      213: -5441140682322737345
+    second: PurplePortal_139
+  - first:
+      213: 9167611805787742907
+    second: PurplePortal_140
+  - first:
+      213: -3945444730919896138
+    second: PurplePortal_141
+  - first:
+      213: -1675345894101664375
+    second: PurplePortal_142
+  - first:
+      213: 5877755867415967780
+    second: PurplePortal_143
+  - first:
+      213: 2920163223231913272
+    second: PurplePortal_144
+  - first:
+      213: 6517708798350320056
+    second: PurplePortal_145
+  - first:
+      213: -404188627992106446
+    second: PurplePortal_146
+  - first:
+      213: 176743018173185679
+    second: PurplePortal_147
+  - first:
+      213: -3146542837139438567
+    second: PurplePortal_148
+  - first:
+      213: -5577382198099465876
+    second: PurplePortal_149
+  - first:
+      213: -7933628244148577466
+    second: PurplePortal_150
+  - first:
+      213: 5892313662048909983
+    second: PurplePortal_151
+  - first:
+      213: -204740946705764342
+    second: PurplePortal_152
+  - first:
+      213: -8573788657172418691
+    second: PurplePortal_153
+  - first:
+      213: 6884698797461206686
+    second: PurplePortal_154
+  - first:
+      213: 5141272479853338202
+    second: PurplePortal_155
+  - first:
+      213: -8906100810867581919
+    second: PurplePortal_156
+  - first:
+      213: -9071596491421437912
+    second: PurplePortal_157
+  - first:
+      213: -3985395261033545822
+    second: PurplePortal_158
+  - first:
+      213: -2661720621366279867
+    second: PurplePortal_159
+  - first:
+      213: -5157566086957677376
+    second: PurplePortal_160
+  - first:
+      213: 2372475114978689380
+    second: PurplePortal_161
+  - first:
+      213: -361773987454221947
+    second: PurplePortal_162
+  - first:
+      213: -5321407165718948503
+    second: PurplePortal_163
+  - first:
+      213: 9160703440933248786
+    second: PurplePortal_164
+  - first:
+      213: 4404199388195355614
+    second: PurplePortal_165
+  - first:
+      213: -8835845607931380606
+    second: PurplePortal_166
+  - first:
+      213: 9017846848405835939
+    second: PurplePortal_167
+  - first:
+      213: -3031356206593686821
+    second: PurplePortal_168
+  - first:
+      213: -715805128882767017
+    second: PurplePortal_169
+  - first:
+      213: 4168905950408729980
+    second: PurplePortal_170
+  - first:
+      213: -7128575524635675132
+    second: PurplePortal_171
+  - first:
+      213: 1051454337999686493
+    second: PurplePortal_172
+  - first:
+      213: -556742598483341486
+    second: PurplePortal_173
+  - first:
+      213: -9002275921108206389
+    second: PurplePortal_174
+  - first:
+      213: 7103663684362744214
+    second: PurplePortal_175
+  - first:
+      213: 5763761089024378453
+    second: PurplePortal_176
+  - first:
+      213: -4546667070065889518
+    second: PurplePortal_177
+  - first:
+      213: 8008769620299912458
+    second: PurplePortal_178
+  - first:
+      213: 235188464873079127
+    second: PurplePortal_179
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PurplePortal_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1310
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ff98d5f8dab54e0800000000000000
+      internalID: -1991807578920059006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1310
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e50f56a8c3b95e80800000000000000
+      internalID: -8189316773030459927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1309
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d26951e27b2d9000800000000000000
+      internalID: 44239343750570704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1308
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7ac43fe164c1530800000000000000
+      internalID: 3827010882102929396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1307
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64c25fc07c62f7c0800000000000000
+      internalID: -4039046684027468689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1307
+        width: 85
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63cc8b8e8d1952a0800000000000000
+      internalID: -6748330068574157972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_6
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1306
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5632243801dd4df20800000000000000
+      internalID: 3446622677836637029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_7
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1306
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13da420792662ff60800000000000000
+      internalID: 8066622210735123761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_8
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1307
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9661f1fc2aa0a00800000000000000
+      internalID: 723569700609878508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_9
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1307
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515e27f5c67bf9600800000000000000
+      internalID: 477301761610278165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_10
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1306
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4463b272a5224d730800000000000000
+      internalID: 4022878137748239940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_11
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1305
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd41f3ab671cc0f0800000000000000
+      internalID: -1095474858278433354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_12
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1305
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074d4b99f216b35c0800000000000000
+      internalID: -4234684167541697424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_13
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1304
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77cc1f8190f51620800000000000000
+      internalID: 2744364055914137469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1205
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c928ef19c57770600800000000000000
+      internalID: 434447128534614684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1210
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4882bc81673350fa0800000000000000
+      internalID: -5835201159873484668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1215
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d46233e93548cce0800000000000000
+      internalID: -1384780770489244457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1214
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2016bca296d779370800000000000000
+      internalID: 8329263926488031490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_18
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1213
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8459ab2e3d01cc40800000000000000
+      internalID: 5530716378059330701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_19
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1213
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e88baefbd11495b0800000000000000
+      internalID: -5362641619723253529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_20
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1213
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9379b3bcccfd700800000000000000
+      internalID: 567397251322165729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_21
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1213
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd29dddf47b1a2800800000000000000
+      internalID: 588312890614584028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_22
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1212
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9654ee81a5b94a90800000000000000
+      internalID: -7329127213077080417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_23
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1211
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68b6fe2bc115fa70800000000000000
+      internalID: 8860007406285273198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_24
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1210
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99290da7e1c28afd0800000000000000
+      internalID: -2330564297743101287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_25
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1209
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea858fa63c7101240800000000000000
+      internalID: 4760330934211336366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_26
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1214
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522fd48cc04afab50800000000000000
+      internalID: 6606679553182921253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_27
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1214
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a2f852f7ae027e0800000000000000
+      internalID: -1792174819881571695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1112
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1e32430596d40d0800000000000000
+      internalID: -3436975147420753419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_29
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1111
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e847c966598fc710800000000000000
+      internalID: 1715740987286309096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1111
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a543ed0b8f198830800000000000000
+      internalID: 4073822020027237800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_31
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1110
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b9018b6d8200730800000000000000
+      internalID: 3963212574762244908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_32
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1110
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba07de685f0cbb6f0800000000000000
+      internalID: -667727958971158357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_33
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1111
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2efbd273cf47e8e0800000000000000
+      internalID: -1664273836425871829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_34
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1111
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99499a240271dbb20800000000000000
+      internalID: 3151700741554017433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_35
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1110
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac28c95cfb4447bc0800000000000000
+      internalID: -3786325796266933558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_36
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1109
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb293256bb1a69240800000000000000
+      internalID: 4798200279237628604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_37
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1108
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9663e41f23bf0700800000000000000
+      internalID: 508822297711437470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_38
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1108
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735b039fe4f659f20800000000000000
+      internalID: 3428769076291351863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_39
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1107
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001a6413bea2d5a30800000000000000
+      internalID: 4205564816666304768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_40
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1106
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5362542cde5cdf0800000000000000
+      internalID: -160460793062214187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_41
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1105
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debcc1f069c9122f0800000000000000
+      internalID: -999345473986966547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_42
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1004
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a0e2e9447f1e420800000000000000
+      internalID: 2657677129208957515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1004
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad6466ce6f426d40800000000000000
+      internalID: 5576106625831562669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_44
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1005
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dbb0008186b1120800000000000000
+      internalID: 2385614879912082699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_45
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1010
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2950a16d4d0ed18c0800000000000000
+      internalID: -4026815287069637230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_46
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1010
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec4551227667b020800000000000000
+      internalID: 2357465570323287275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_47
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1009
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681fc74a45c4229a0800000000000000
+      internalID: -6259356605670952570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_48
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1008
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1057779a6441eba0800000000000000
+      internalID: -6061488398865575909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_49
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1007
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e800757e51916adf0800000000000000
+      internalID: -169420354113568626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_50
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1008
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beb31ec36236b0d0800000000000000
+      internalID: -3407480663818649933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_51
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1006
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9458b6db4c6fe3b90800000000000000
+      internalID: -7260094224422697655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_52
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1005
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fba26df24f9e7a10800000000000000
+      internalID: 1909138402119429108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_53
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1014
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fb140d6d78b1b60800000000000000
+      internalID: 7717911743116197671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_54
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1013
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd3e1fda2250ac60800000000000000
+      internalID: 7827346496455327169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_55
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1012
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90afa5f5b3f6d0f0800000000000000
+      internalID: -1092417896754208609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_56
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 912
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf125b043c7af3b0800000000000000
+      internalID: -5477929433772711973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_57
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 911
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2da5526244045680800000000000000
+      internalID: -8767377891419378389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_58
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 910
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff1de2b5eb5ac200800000000000000
+      internalID: 201074175478931449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_59
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 910
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7062f937fc569b0800000000000000
+      internalID: -5087432108546848785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_60
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 909
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8defb0a32ad3260800000000000000
+      internalID: 7078992559489341681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_61
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 908
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1d92fbb8a6bb5a0800000000000000
+      internalID: -6504488088366362165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_62
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 907
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c6306f2aefd86f0800000000000000
+      internalID: -680607992797500370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_63
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 907
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c617c189b2cae2010800000000000000
+      internalID: 1166058656771109228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_64
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 906
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f502f91fdcf7b70800000000000000
+      internalID: 8899057826347900682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_65
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 905
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3068591751f1390800000000000000
+      internalID: -7845528448272038984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_66
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 909
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b97a10af31d0c20800000000000000
+      internalID: 3174215276856580950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_67
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 908
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b8e5b51194db550800000000000000
+      internalID: 6178174602718382896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_68
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 908
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bacfc04cfed7d5e0800000000000000
+      internalID: -1884792744030778702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_69
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 906
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c3b104deb09d400800000000000000
+      internalID: 349323559708605456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_70
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 806
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048de22dbc2075d10800000000000000
+      internalID: 2114161624501639232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_71
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 805
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b7b4b5e62772cf0800000000000000
+      internalID: -277127033756353739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_72
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 805
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd3a1ffe3669b7f0800000000000000
+      internalID: -596333054895964719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_73
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 809
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48740a2fd5dd0c60800000000000000
+      internalID: 7786114485252814922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_74
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 808
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980bd9533999aaf30800000000000000
+      internalID: 4587648027969040521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_75
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 807
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd109e60e3e6d6d0800000000000000
+      internalID: -2965932751509774854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_76
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 807
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b89a426dcfa2cf0800000000000000
+      internalID: -276130430461572198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_77
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 808
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f2bcfafd3576dd0800000000000000
+      internalID: -2492931648534139126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_78
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 808
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756cef169f71f0180800000000000000
+      internalID: -9147065958307805609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_79
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 807
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370996ca1e66ffe30800000000000000
+      internalID: 4539460068859023475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_80
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 806
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b382f2a39d96cc870800000000000000
+      internalID: 8704448561505314875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_81
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 805
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652f112241da6b5a0800000000000000
+      internalID: -6505822309707550122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_82
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 805
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f469048c6d788d70800000000000000
+      internalID: 9045617756598789368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_83
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 806
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ab6e9512cd03ce0800000000000000
+      internalID: -1427399046076122531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_84
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 705
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99870ada634bde720800000000000000
+      internalID: 2877153883893823641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_85
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 704
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0fc828f65931fb0800000000000000
+      internalID: -4678231281743630155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_86
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 705
+        width: 77
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acff074a271e1d40800000000000000
+      internalID: 5556904460570066086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_87
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 704
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3274ef95e7a85a50800000000000000
+      internalID: 6510137866035950140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_88
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 710
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394b263cf059ca840800000000000000
+      internalID: 5236724361660118163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_89
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 709
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ae46966831342e0800000000000000
+      internalID: -2142847529683457400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_90
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 709
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd52cd7701dd6b80800000000000000
+      internalID: -8399827899871240713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_91
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 708
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf7925ba04d45cb0800000000000000
+      internalID: -4876039354081247304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_92
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 706
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfab8e51e8f2eb00800000000000000
+      internalID: 856520525991358410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_93
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 705
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851499d8fcf4dfa50800000000000000
+      internalID: 6556484385373765976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_94
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 705
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3369b009d696ae0800000000000000
+      internalID: -1555591730842684457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_95
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 705
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178223438ada48ce0800000000000000
+      internalID: -1403806245890938767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_96
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 705
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ba3b97ebaa528d0800000000000000
+      internalID: -2871701452316497003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_97
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 706
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d3e5bcb3a658450800000000000000
+      internalID: 6090390876136029544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_98
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 606
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a45a370048769e0800000000000000
+      internalID: -1628187602796066186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_99
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 605
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38da79a7ad9399620800000000000000
+      internalID: 2781317855400406403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_100
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 604
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a80d529ce5117530800000000000000
+      internalID: 3850883262190520488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_101
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 612
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61648eaabe39d670800000000000000
+      internalID: 8563945137934459246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_102
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 611
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cde1d526405f4180800000000000000
+      internalID: -9128989657444258363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_103
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 611
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ddd9086555ab560800000000000000
+      internalID: 7330265173512281395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_104
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 610
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78d092e5d9ebc850800000000000000
+      internalID: 6398464800448370810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_105
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 609
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c905f735cd642cf0800000000000000
+      internalID: -277976583175337529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_106
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 608
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306e5e93312d770e0800000000000000
+      internalID: -2272116506967546365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_107
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 607
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b536151eca5a08760800000000000000
+      internalID: 7458143144858706779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_108
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 607
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a431c5345f71c3ee0800000000000000
+      internalID: -1280121851915529398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_109
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 615
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de8d044e7fdb5170800000000000000
+      internalID: 8168368082567139024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_110
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 614
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833c9cb2f4823dd80800000000000000
+      internalID: -8227187773773593800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_111
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 613
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d401afc98cb59d240800000000000000
+      internalID: 4816982193634676813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_112
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 513
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687a621a3a3f09900800000000000000
+      internalID: 689318627096569734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_113
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 512
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919bb8f25714a2860800000000000000
+      internalID: 7505883700531018009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_114
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 511
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79dcf57951a80250800000000000000
+      internalID: 5911151916527442299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_115
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 511
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3a6b5517fe66090800000000000000
+      internalID: -8041476814575066117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_116
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 510
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcfcfe5b5f0a26b0800000000000000
+      internalID: -5320423124674741028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_117
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 510
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbb70947b9406800800000000000000
+      internalID: 603563401620732857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_118
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 509
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fab877ce8509ee0800000000000000
+      internalID: -1256406523395199167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_119
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 508
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d469a619d8e07e0800000000000000
+      internalID: -1797343545576239723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_120
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 513
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9e773990f326760800000000000000
+      internalID: 7449586043985586611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_121
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 512
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308eeb97c8478c9e0800000000000000
+      internalID: -1600901520843413501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_122
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 511
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd9eb14b978ea270800000000000000
+      internalID: 8263691467164130815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_123
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 510
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54081f12ebd900e0800000000000000
+      internalID: -2303067970192538529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_124
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 510
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394fbc0f10d7c5c10800000000000000
+      internalID: 2043645778207700115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_125
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 509
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7fa02458dc0ba50800000000000000
+      internalID: 6534949031536949155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_126
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 408
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700330d4b8c20c560800000000000000
+      internalID: 7331909170163298311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_127
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 408
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e82214a03d08890800000000000000
+      internalID: -7457728941929623987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_128
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 407
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab71bddb62917910800000000000000
+      internalID: 1833407515295054760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_129
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 407
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1051809446274d50800000000000000
+      internalID: 6721383044797779995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_130
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 408
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029b9f4aaf58cd030800000000000000
+      internalID: 3520836320253032736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_131
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 408
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d23003b692993120800000000000000
+      internalID: 2394105852870013653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_132
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 407
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9587d540cb0a41620800000000000000
+      internalID: 2743994802363005017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_133
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 406
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc61f34f59e12d320800000000000000
+      internalID: 2581159165833451213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_134
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 406
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317471203b2b2a3f0800000000000000
+      internalID: -890953294361966829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_135
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 405
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6245e8330abe118b0800000000000000
+      internalID: -5183102622834469850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_136
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 404
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7911c1b5520b3f0c0800000000000000
+      internalID: -4543093924597853801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_137
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 406
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744dbd02d6de2a160800000000000000
+      internalID: 7035446620864631879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_138
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 406
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071e309bf392dcdf0800000000000000
+      internalID: -158425058224381584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_139
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 405
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f370a39b06f2d74b0800000000000000
+      internalID: -5441140682322737345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_140
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 305
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2e7a28d56e93f70800000000000000
+      internalID: 9167611805787742907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_141
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 305
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb359ccbe6fe39c0800000000000000
+      internalID: -3945444730919896138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_142
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 306
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d392229c9ffb8e0800000000000000
+      internalID: -1675345894101664375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_143
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 305
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428fbc9d1dbf19150800000000000000
+      internalID: 5877755867415967780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_144
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 308
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dd5e6daf0868820800000000000000
+      internalID: 2920163223231913272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_145
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 307
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1eb1bae9d837a50800000000000000
+      internalID: 6517708798350320056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_146
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 306
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a27469598046af0800000000000000
+      internalID: -404188627992106446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_147
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 306
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e3ebea6dae37200800000000000000
+      internalID: 176743018173185679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_148
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 305
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91401c1f5fb3554d0800000000000000
+      internalID: -3146542837139438567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_149
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 304
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69a1b9e0782992b0800000000000000
+      internalID: -5577382198099465876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_150
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 305
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b9487652716e190800000000000000
+      internalID: -7933628244148577466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_151
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 304
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a3b9b8e04b5c150800000000000000
+      internalID: 5892313662048909983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_152
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 306
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0030a8913d982df0800000000000000
+      internalID: -204740946705764342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_153
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 305
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fe6f564a8c30980800000000000000
+      internalID: -8573788657172418691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_154
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 205
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96fb30641d5b8f50800000000000000
+      internalID: 6884698797461206686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_155
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 209
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e562fa418795740800000000000000
+      internalID: 5141272479853338202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_156
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 210
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c5b62cf7c276480800000000000000
+      internalID: -8906100810867581919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_157
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 209
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820352fed073b1280800000000000000
+      internalID: -9071596491421437912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_158
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 208
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aff198202801b8c0800000000000000
+      internalID: -3985395261033545822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_159
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 208
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5418120823baf0bd0800000000000000
+      internalID: -2661720621366279867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_160
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 207
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4494948f4ac68b0800000000000000
+      internalID: -5157566086957677376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_161
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 207
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46142c21c89bce020800000000000000
+      internalID: 2372475114978689380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_162
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 207
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58180d4a978bafaf0800000000000000
+      internalID: -361773987454221947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_163
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 205
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9659a1670609626b0800000000000000
+      internalID: -5321407165718948503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_164
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 205
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f56897e3b512f70800000000000000
+      internalID: 9160703440933248786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_165
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 207
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb7065520cde1d30800000000000000
+      internalID: 4404199388195355614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_166
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 210
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cfd01eb35c06580800000000000000
+      internalID: -8835845607931380606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_167
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 208
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a01b161ee3d52d70800000000000000
+      internalID: 9017846848405835939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_168
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2ce4647957ee5d0800000000000000
+      internalID: -3031356206593686821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_169
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 107
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b3a8c1703f016f0800000000000000
+      internalID: -715805128882767017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_170
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 106
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75ef14cfddead930800000000000000
+      internalID: 4168905950408729980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_171
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 105
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406fb834456321d90800000000000000
+      internalID: -7128575524635675132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_172
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 108
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bc30a4624879e00800000000000000
+      internalID: 1051454337999686493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_173
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 114
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f82127e8d0648f0800000000000000
+      internalID: -556742598483341486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_174
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 112
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccfa40febd711380800000000000000
+      internalID: -9002275921108206389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_175
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 113
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691b84eeb78459260800000000000000
+      internalID: 7103663684362744214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_176
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 111
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55644893c2efcff40800000000000000
+      internalID: 5763761089024378453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_177
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 110
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fa1c8936ef6e0c0800000000000000
+      internalID: -4546667070065889518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_178
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 110
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a059ae1998dd42f60800000000000000
+      internalID: 8008769620299912458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurplePortal_179
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 109
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7518708a9ae834300800000000000000
+      internalID: 235188464873079127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
