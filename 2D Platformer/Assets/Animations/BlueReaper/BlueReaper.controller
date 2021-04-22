@@ -90,7 +90,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4b55637f6f348f46a3778b8ab973da9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  speed: 2.85
   attackRange: 1
   enemyDetectionRange: 3
   playerDistance: 0
