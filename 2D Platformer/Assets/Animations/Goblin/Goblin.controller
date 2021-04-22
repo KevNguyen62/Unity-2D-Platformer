@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5325dec28b1b1424db733ecbabfa37b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  speed: 2.85
   attackRange: 1
   enemyDetectionRange: 3
   playerDistance: 0
