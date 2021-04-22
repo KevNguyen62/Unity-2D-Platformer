@@ -34,6 +34,7 @@ public class Projectile : MonoBehaviour
                 {
                     // Applies Damage to Reaper Boss
                     hitInfo.collider.GetComponent<ReaperHealth>().TakeDamage(damage);
+                    Debug.Log("Reaper boss was hit");
                 }
                 else if (hitInfo.collider.CompareTag("EvilWizardBoss"))
                 {
@@ -60,6 +61,7 @@ public class Projectile : MonoBehaviour
     {
         Instantiate(destroyEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
+        
     }
 
 
