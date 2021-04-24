@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class ReaperBehavior : StateMachineBehaviour
 {
-    public float speed = 0.05f;
-    public float attackRange = 1f;
+    public float speed;
+    public float attackRange;
+    public float enemyDetectionRange;
+    public float playerDistance;
 
     Transform player;
     Rigidbody2D rb;
@@ -23,9 +25,12 @@ public class ReaperBehavior : StateMachineBehaviour
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         flipSprite.LookAtPlayer();
-        Vector2 target = new Vector2(player.position.x, rb.position.y);
-        Vector2 newPos = Vector2.MoveTowards(rb.position, target, speed * Time.fixedDeltaTime);
-        rb.MovePosition(newPos);
+
+        playerDistance = Vector3.Distance(animator.transform.position, player.position);
+        if (playerDistance < enemyDetectionRange)
+        {
+            animator.transform.position = Vector2.MoveTowards(animator.transform.position, player.position, speed * Time.deltaTime);
+        }
 
         if (Vector2.Distance(player.position, rb.position) <= attackRange)
         {
@@ -38,6 +43,4 @@ public class ReaperBehavior : StateMachineBehaviour
     {
         animator.ResetTrigger("reaperAttack1");
     }
-
-
 }

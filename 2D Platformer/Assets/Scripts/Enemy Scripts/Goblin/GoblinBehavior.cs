@@ -43,7 +43,4 @@ public class GoblinBehavior : StateMachineBehaviour
     {
         animator.ResetTrigger("goblinAttack1");
     }
-
-
-
 }
