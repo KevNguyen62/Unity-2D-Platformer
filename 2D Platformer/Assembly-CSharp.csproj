@@ -297,6 +297,9 @@
     <Reference Include="UnityEditor">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.19f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
+    <Reference Include="System.IO.Compression.FileSystem">
+      <HintPath>C:/Users/nguye/CMPE-195-2D-Platformer/2D Platformer/Library/PackageCache/com.unity.connect.share@4.2.2/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
+    </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.19f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
     </Reference>
@@ -722,6 +725,15 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>C:/Users/nguye/CMPE-195-2D-Platformer/2D Platformer/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Play.Publisher.Editor">
+      <HintPath>C:/Users/nguye/CMPE-195-2D-Platformer/2D Platformer/Library/ScriptAssemblies/Unity.Play.Publisher.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InternalAPIEditorBridgeDev.001">
+      <HintPath>C:/Users/nguye/CMPE-195-2D-Platformer/2D Platformer/Library/ScriptAssemblies/Unity.InternalAPIEditorBridgeDev.001.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.EditorCoroutines.Editor">
+      <HintPath>C:/Users/nguye/CMPE-195-2D-Platformer/2D Platformer/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
