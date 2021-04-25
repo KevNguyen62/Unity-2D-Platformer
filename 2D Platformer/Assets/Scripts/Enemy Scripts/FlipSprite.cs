@@ -16,14 +16,12 @@ public class FlipSprite : MonoBehaviour
         if (transform.position.x > player.position.x && isFlipped)
         {
             transform.localScale = flipped;
-            //transform.Rotate(0f, 180f, 0f);
             transform.eulerAngles = new Vector3(0, 180, 0);
             isFlipped = false;
         }
         else if (transform.position.x < player.position.x && !isFlipped)
         {
             transform.localScale = flipped;
-            //transform.Rotate(0f, 180f, 0f);
             transform.eulerAngles = new Vector3(0, 0, 0);
             isFlipped = true;
         }
