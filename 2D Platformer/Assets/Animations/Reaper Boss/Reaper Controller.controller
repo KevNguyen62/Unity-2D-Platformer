@@ -214,7 +214,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 1.85
   attackRange: 0.7
-  enemyDetectionRange: 3
+  enemyDetectionRange: 4
   playerDistance: 0
 --- !u!1101 &4194328409919707698
 AnimatorStateTransition:
