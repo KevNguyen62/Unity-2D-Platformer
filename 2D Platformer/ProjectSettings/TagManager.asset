@@ -21,10 +21,10 @@ TagManager:
   - 
   - Ground
   - Player Layer
+  - Background
   - Enemy
-  - 
-  - 
-  - 
+  - Hazards
+  - Interactables
   - 
   - 
   - 
@@ -44,9 +44,27 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
   - name: Cloud Background
     uniqueID: 2514383831
     locked: 0
-  - name: Default
-    uniqueID: 0
+  - name: Background
+    uniqueID: 2893200507
+    locked: 0
+  - name: Enemy
+    uniqueID: 226283133
+    locked: 0
+  - name: Player
+    uniqueID: 1389048285
+    locked: 0
+  - name: Hazards
+    uniqueID: 3547891547
+    locked: 0
+  - name: Foreground
+    uniqueID: 2186939289
+    locked: 0
+  - name: Interactables
+    uniqueID: 2358736105
     locked: 0
