@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 714a861af2b4189429479e060b8bcb12, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1.25
-  attackRange: 1
-  enemyDetectionRange: 4
+  speed: 10
+  attackRange: 1.6
+  enemyDetectionRange: 20
   playerDistance: 0
 --- !u!1102 &-6691568810416484867
 AnimatorState:
