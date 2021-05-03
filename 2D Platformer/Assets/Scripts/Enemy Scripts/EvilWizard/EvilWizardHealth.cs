@@ -18,7 +18,7 @@ public class EvilWizardHealth : MonoBehaviour
 
         health -= damage;
 
-        if (health <= 25)
+        if (health <= 33)
         {
             GetComponent<Animator>().SetBool("isEnraged", true);
         }
