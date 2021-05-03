@@ -90,6 +90,7 @@
     <Compile Include="Assets\Scripts\Teleport\Checkpoint.cs" />
     <Compile Include="Assets\Scripts\Teleport\GameMaster.cs" />
     <Compile Include="Assets\Scripts\Teleport\PlayerPosition.cs" />
+    <Compile Include="Assets\Scripts\Teleport\PortalTeleporter.cs" />
     <None Include="Assets\Scripts\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\Scripts\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\Scripts\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
