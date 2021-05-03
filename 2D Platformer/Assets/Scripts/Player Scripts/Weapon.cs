@@ -15,6 +15,18 @@ public class Weapon : MonoBehaviour
     private float timeBtwShots;
     public float startTimeBtwShots;
 
+    //flipping weapon
+    private SpriteRenderer spriteRender;
+
+
+
+    private void Start()
+    {
+        spriteRender = GetComponent<SpriteRenderer>();
+    }
+
+
+
     // Update is called once per frame
     void Update()
     {
@@ -28,6 +40,24 @@ public class Weapon : MonoBehaviour
 
         //set weapon rotation 
         transform.rotation = Quaternion.Euler(0f, 0f, rotZ + offset);
+
+        if(rotZ < 89 && rotZ > -89)
+        {
+            Debug.Log("Facing Left");
+            spriteRender.flipY = true;
+        }
+        else
+        {
+            Debug.Log("Facing Right");
+            spriteRender.flipY = false;
+
+        }
+
+
+
+
+
+
 
         if (timeBtwShots <= 0)
         {
