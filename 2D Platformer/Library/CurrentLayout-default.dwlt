@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 242
     height: 282
-  m_MinSize: {x: 242, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 240, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 473, y: 271}
   m_MaxSize: {x: 14003, y: 10021}
   vertical: 0
-  controlID: 146
+  controlID: 150
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -99,7 +99,7 @@ MonoBehaviour:
   m_MinSize: {x: 749, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 177
+  controlID: 181
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -119,8 +119,8 @@ MonoBehaviour:
     y: 0
     width: 374
     height: 947
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -145,8 +145,8 @@ MonoBehaviour:
     y: 0
     width: 298
     height: 665
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -270,7 +270,7 @@ MonoBehaviour:
   m_MinSize: {x: 473, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 1
-  controlID: 73
+  controlID: 79
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -295,7 +295,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 74
+  controlID: 80
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -679,20 +679,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Teleport
+    - Assets/Sounds
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Scripts/Teleport
+  - Assets/Sounds
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\nguye\CMPE-195-2D-Platformer\2D Platformer
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 287}
-    m_SelectedIDs: 627d0000
-    m_LastClickedID: 32098
-    m_ExpandedIDs: 000000002c7d00002e7d0000307d0000327d0000347d0000367d0000387d00003a7d00003c7d00003e7d0000407d0000427d0000447d0000467d0000607d0000647d000000ca9a3b
+    scrollPos: {x: 0, y: 447}
+    m_SelectedIDs: a27d0000
+    m_LastClickedID: 32162
+    m_ExpandedIDs: 00000000307d0000327d0000347d0000367d0000387d00003a7d00003c7d00003e7d0000407d0000427d0000447d0000467d0000487d00004a7d00004c7d0000667d00009c7d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -720,7 +720,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000002c7d00002e7d0000307d0000327d0000347d0000367d0000387d00003a7d00003c7d00003e7d0000407d0000427d0000447d0000467d0000
+    m_ExpandedIDs: 00000000307d0000327d0000347d0000367d0000387d00003a7d00003c7d00003e7d0000407d0000427d0000447d0000467d0000487d00004a7d00004c7d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -842,10 +842,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 97}
-      m_SelectedIDs: ba3d0000
-      m_LastClickedID: 15802
-      m_ExpandedIDs: 64fbffff963d00004e44000036450000844500000a4a0000
+      scrollPos: {x: 0, y: 2593}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 54fbffff5efbffff64fbffff583a0000e43a00000a3b00002e3c00008e3c0000403d0000783d00008e3d0000983d0000e23d0000683f00005c4000008840000032410000564100006e410000d641000052420000f64200003c43000006440000524400006a440000bc4400003a4500006a45000088450000d0460000f44600009e47000072480000a4490000c0490000d0490000fe4900000e4a00001c4a0000624a0000e64a0000a84b0000184c0000304c0000724c0000fa4c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -905,9 +905,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -96.21259, y: 123.71625, z: -65.881325}
+    m_Target: {x: -54.119644, y: 110.2991, z: -102.52344}
     speed: 2
-    m_Value: {x: -97.17124, y: 124.61125, z: -65.68371}
+    m_Value: {x: -54.119644, y: 110.2991, z: -102.52344}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -957,9 +957,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 52.42336
+    m_Target: 20.500103
     speed: 2
-    m_Value: 54.89357
+    m_Value: 19.617323
   m_Ortho:
     m_Target: 1
     speed: 2
