@@ -265,8 +265,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 12
-  attackRange: 1
-  enemyDetectionRange: 0
+  attackRange: 8
+  enemyDetectionRange: 20
   playerDistance: 0
 --- !u!1102 &1106487390599155814
 AnimatorState:
@@ -385,8 +385,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 12
-  attackRange: 6
-  enemyDetectionRange: 15
+  attackRange: 8
+  enemyDetectionRange: 20
   playerDistance: 0
 --- !u!1101 &8019307632434737060
 AnimatorStateTransition:
