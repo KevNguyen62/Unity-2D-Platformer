@@ -99,7 +99,7 @@ MonoBehaviour:
   m_MinSize: {x: 749, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 157
+  controlID: 150
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -757,7 +757,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000b0cb00000eca0000fcc9000082fb030064d3000066d30000e4d40000e09e0700c2d70000000000004cd10000d83c0000884600004c450200506d00008c6d00004c530000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -853,20 +853,20 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 18d3ffff3ed3ffff4cd4ffff7ad9ffffa0d9ffff76dbffff88ebffffc2ebffff98edffff32f3ffff6cf3ffff7af4fffff6f5ffff30f6ffff06f8ffff40fbffffd0340100043f010092aa010020ae01003ab1010026b2010074b2010084b60100
+      m_SelectedIDs: 3e500000
+      m_LastClickedID: 20542
+      m_ExpandedIDs: 40fbffffe24300003a440000264d0000f84d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: PurplePortal
-        m_OriginalName: PurplePortal
+        m_Name: BlueReaperDeathAnimation
+        m_OriginalName: BlueReaperDeathAnimation
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 111142
+        m_UserData: 16844
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -916,9 +916,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 370.3409, y: -179.58406, z: -17.989468}
+    m_Target: {x: -144.68587, y: 90.0457, z: -15.150434}
     speed: 2
-    m_Value: {x: 370.3409, y: -179.58406, z: -17.989468}
+    m_Value: {x: -144.68587, y: 90.0457, z: -15.150434}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -969,9 +969,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 156.50716
+    m_Target: 10
     speed: 2
-    m_Value: 156.50716
+    m_Value: 10
   m_Ortho:
     m_Target: 1
     speed: 2
