@@ -1,0 +1,617 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 16318 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/nguye/CMPE-195-2D-Platformer/2D Platformer
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65412
+Successfully changed project path to: C:/Users/nguye/CMPE-195-2D-Platformer/2D Platformer
+C:/Users/nguye/CMPE-195-2D-Platformer/2D Platformer
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 54.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/nguye/CMPE-195-2D-Platformer/2D Platformer/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 5700 XT (ID=0x731f)
+    Vendor:   
+    VRAM:     8151 MB
+    Driver:   27.20.15003.1004
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56648
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002057 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 53.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.051 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001524 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 53.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.838 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1883 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 91.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2330.
+Total: 1.939300 ms (FindLiveObjects: 0.231600 ms CreateObjectMapping: 0.093800 ms MarkObjects: 1.552700 ms  DeleteObjects: 0.060300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Animations/Goblin/GoblinDeath.controller
+  artifactKey: Guid(dc7db0cf73e7f1a499cadb43ed1d2dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Goblin/GoblinDeath.controller using Guid(dc7db0cf73e7f1a499cadb43ed1d2dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2090c8b596c51dcb21327f4ff2879ef0') in 0.039064 seconds
+  Import took 0.041779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.096251 seconds.
+  path: Assets/Animations/Goblin/GoblinDeath.anim
+  artifactKey: Guid(6276015c66add6e45a874a3a13a8f7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Goblin/GoblinDeath.anim using Guid(6276015c66add6e45a874a3a13a8f7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc24fb32a150098855404d298a27b38') in 0.004703 seconds
+  Import took 0.007294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003749 seconds.
+  path: Assets/Animations/Goblin/GoblinDeath.anim
+  artifactKey: Guid(6276015c66add6e45a874a3a13a8f7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Goblin/GoblinDeath.anim using Guid(6276015c66add6e45a874a3a13a8f7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc24fb32a150098855404d298a27b38') in 0.002960 seconds
+  Import took 0.006069 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 52.4 MB.
+System memory in use after: 52.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2330.
+Total: 2.003900 ms (FindLiveObjects: 0.162200 ms CreateObjectMapping: 0.057800 ms MarkObjects: 1.769400 ms  DeleteObjects: 0.013800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001459 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.708 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1861 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2333.
+Total: 1.990900 ms (FindLiveObjects: 0.259600 ms CreateObjectMapping: 0.331800 ms MarkObjects: 1.385100 ms  DeleteObjects: 0.013600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001396 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.743 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1861 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2336.
+Total: 1.572300 ms (FindLiveObjects: 0.143000 ms CreateObjectMapping: 0.050300 ms MarkObjects: 1.366000 ms  DeleteObjects: 0.012300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.813094 seconds.
+  path: Assets/Art
+  artifactKey: Guid(9b9e8ed2eada5f1489619b7cee416756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art using Guid(9b9e8ed2eada5f1489619b7cee416756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1080f0268dabde226739690e4c16cfd') in 0.010141 seconds
+  Import took 0.012976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042780 seconds.
+  path: Assets/Art/main-menu-background.png
+  artifactKey: Guid(859b555d05e5f044f83aa2f23b2079c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/main-menu-background.png using Guid(859b555d05e5f044f83aa2f23b2079c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c53b614a83fde57367a971f66f85538a') in 0.136429 seconds
+  Import took 0.139265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.535480 seconds.
+  path: Assets/Art/Enemies
+  artifactKey: Guid(970e0ee979a4e4f47bc9c15e0d0814aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies using Guid(970e0ee979a4e4f47bc9c15e0d0814aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e8386d4765106543aabb5dcc8dd3f00') in 0.006709 seconds
+  Import took 0.009368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.806455 seconds.
+  path: Assets/Art/Enemies/Bosses
+  artifactKey: Guid(1ad9c901afe7935488b48b34531d4fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Bosses using Guid(1ad9c901afe7935488b48b34531d4fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f6928feb7a2cfaa6c26dc2a7e19d1e5') in 0.006768 seconds
+  Import took 0.009387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.295603 seconds.
+  path: Assets/Art/Enemies/Overworld enemies
+  artifactKey: Guid(07bf06d2c9295a344b327e7b8ca27795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies using Guid(07bf06d2c9295a344b327e7b8ca27795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c48d96c837399947467bf57574d7a82') in 0.006423 seconds
+  Import took 0.009073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.649502 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/Goblin
+  artifactKey: Guid(c252b08d3e6dbf542b6aee8d7c290a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/Goblin using Guid(c252b08d3e6dbf542b6aee8d7c290a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f1e5ba98faafb8efae5511ffcdc1ac') in 0.008033 seconds
+  Import took 0.010564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052177 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/Goblin/goblin_attack_anim_strip_4.png
+  artifactKey: Guid(c7eacd8f6ef87fa48adfc00af804937f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/Goblin/goblin_attack_anim_strip_4.png using Guid(c7eacd8f6ef87fa48adfc00af804937f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044aaa5f4d2eedeb5fe3eb46fee8bbba') in 0.013276 seconds
+  Import took 0.016004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/Goblin/goblin_run_anim_strip_6.png
+  artifactKey: Guid(f1b8ecd9c50d3d448b509f216226d87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/Goblin/goblin_run_anim_strip_6.png using Guid(f1b8ecd9c50d3d448b509f216226d87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '790739a94ca93fcae68ddc35310db899') in 0.018630 seconds
+  Import took 0.021573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/Goblin/goblin_idle_anim_strip_4.png
+  artifactKey: Guid(0937450114d54934bab1606fd133c5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/Goblin/goblin_idle_anim_strip_4.png using Guid(0937450114d54934bab1606fd133c5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5345d1c1ca27298e46ab68a35627cd27') in 0.014429 seconds
+  Import took 0.017543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/Goblin/goblin_death_anim_strip_6.png
+  artifactKey: Guid(4720712663e787b48933fd947f2aeb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/Goblin/goblin_death_anim_strip_6.png using Guid(4720712663e787b48933fd947f2aeb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9f1c38cc2c5c37cb46ce7aba44e30a6') in 0.018363 seconds
+  Import took 0.021951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.409804 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/Mushroom
+  artifactKey: Guid(b068a11e5364d2449a1ba6d22af5594d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/Mushroom using Guid(b068a11e5364d2449a1ba6d22af5594d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3facd3f37c6d42d4ebcbff18e3568509') in 0.006972 seconds
+  Import took 0.009798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037063 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/Mushroom/mushroom_death_anim_strip_6.png
+  artifactKey: Guid(5fd0af7d6a8781f458ae38eb5f652361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/Mushroom/mushroom_death_anim_strip_6.png using Guid(5fd0af7d6a8781f458ae38eb5f652361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17e2b8522126f09c6dcb1bff8bccab00') in 0.015037 seconds
+  Import took 0.017861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/Mushroom/mushroom_spritesheet.png
+  artifactKey: Guid(49501de3d17698442b6680a721d6bce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/Mushroom/mushroom_spritesheet.png using Guid(49501de3d17698442b6680a721d6bce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca875034f259eed83c3ff7f0e2130c69') in 0.015435 seconds
+  Import took 0.018326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000518 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/Mushroom/mushroom_walk_anim_strip_8.png
+  artifactKey: Guid(2b4bee5404a095e4d91ad84a31eb8b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/Mushroom/mushroom_walk_anim_strip_8.png using Guid(2b4bee5404a095e4d91ad84a31eb8b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '368fe8e87c1c55d25a6f9d285eca73c5') in 0.020410 seconds
+  Import took 0.023693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000699 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/Mushroom/mushroom_walk_anim_strip_8.png
+  artifactKey: Guid(2b4bee5404a095e4d91ad84a31eb8b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/Mushroom/mushroom_walk_anim_strip_8.png using Guid(2b4bee5404a095e4d91ad84a31eb8b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '368fe8e87c1c55d25a6f9d285eca73c5') in 0.015246 seconds
+  Import took 0.018580 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001482 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.798 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1861 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.4 MB.
+System memory in use after: 92.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2381.
+Total: 1.737000 ms (FindLiveObjects: 0.158600 ms CreateObjectMapping: 0.057400 ms MarkObjects: 1.505700 ms  DeleteObjects: 0.014400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001855 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.954 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1861 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.5 MB.
+System memory in use after: 92.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2384.
+Total: 2.216600 ms (FindLiveObjects: 0.330100 ms CreateObjectMapping: 0.103000 ms MarkObjects: 1.750800 ms  DeleteObjects: 0.030900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001469 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.729 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1861 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.5 MB.
+System memory in use after: 92.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2387.
+Total: 1.752800 ms (FindLiveObjects: 0.166000 ms CreateObjectMapping: 0.060000 ms MarkObjects: 1.511600 ms  DeleteObjects: 0.014400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001477 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.737 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1861 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.5 MB.
+System memory in use after: 92.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2390.
+Total: 2.017400 ms (FindLiveObjects: 0.230000 ms CreateObjectMapping: 0.101300 ms MarkObjects: 1.668600 ms  DeleteObjects: 0.016600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001474 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.735 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1861 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.5 MB.
+System memory in use after: 92.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2393.
+Total: 1.756300 ms (FindLiveObjects: 0.185200 ms CreateObjectMapping: 0.115400 ms MarkObjects: 1.442100 ms  DeleteObjects: 0.012800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001506 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.733 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1861 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.5 MB.
+System memory in use after: 92.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2396.
+Total: 1.693300 ms (FindLiveObjects: 0.154200 ms CreateObjectMapping: 0.054200 ms MarkObjects: 1.470600 ms  DeleteObjects: 0.013600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001544 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.734 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1861 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.5 MB.
+System memory in use after: 92.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2399.
+Total: 1.916800 ms (FindLiveObjects: 0.174400 ms CreateObjectMapping: 0.067100 ms MarkObjects: 1.660500 ms  DeleteObjects: 0.013800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001729 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.816 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1861 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.5 MB.
+System memory in use after: 92.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2402.
+Total: 1.602000 ms (FindLiveObjects: 0.174500 ms CreateObjectMapping: 0.061600 ms MarkObjects: 1.352500 ms  DeleteObjects: 0.012200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 700.248151 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/BlueReaper
+  artifactKey: Guid(8a1f7865099fa3c4d90df6a0bd23a47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/BlueReaper using Guid(8a1f7865099fa3c4d90df6a0bd23a47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c2ab46e2519b5dfa4fe68a1adf40631') in 0.009880 seconds
+  Import took 0.013178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028569 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/BlueReaper/Attack.png
+  artifactKey: Guid(5477fc4cb3b039040934d01e5d05c978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/BlueReaper/Attack.png using Guid(5477fc4cb3b039040934d01e5d05c978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0669e2eedfa50aad9dd4a01dff8e9206') in 0.033483 seconds
+  Import took 0.036929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/BlueReaper/Sword Attack.png
+  artifactKey: Guid(58a496c8880a68741bc4cc676ed29b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/BlueReaper/Sword Attack.png using Guid(58a496c8880a68741bc4cc676ed29b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e488a2fe8f4b4b0b5d8771792f68392') in 0.026915 seconds
+  Import took 0.029676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/BlueReaper/BlueReaper Spritesheet.png
+  artifactKey: Guid(39bd186d1a2a66f41aaf3b5375ea1d79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/BlueReaper/BlueReaper Spritesheet.png using Guid(39bd186d1a2a66f41aaf3b5375ea1d79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22e6b75f84790b415f74a7397295baad') in 0.017748 seconds
+  Import took 0.021679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/BlueReaper/Run.png
+  artifactKey: Guid(112af1a1ec029d4438e0dee6e9c40940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/BlueReaper/Run.png using Guid(112af1a1ec029d4438e0dee6e9c40940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af2912fedd9bf6e118bc434f84c07f79') in 0.019226 seconds
+  Import took 0.022385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/BlueReaper/BlueReaper Spritesheet.png
+  artifactKey: Guid(39bd186d1a2a66f41aaf3b5375ea1d79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/BlueReaper/BlueReaper Spritesheet.png using Guid(39bd186d1a2a66f41aaf3b5375ea1d79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22e6b75f84790b415f74a7397295baad') in 0.007319 seconds
+  Import took 0.010462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/BlueReaper/Death.png
+  artifactKey: Guid(b8df0bdade06d6a4c81058f62aad7492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/BlueReaper/Death.png using Guid(b8df0bdade06d6a4c81058f62aad7492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72916a9bad27492837a2c24bc0438915') in 0.021759 seconds
+  Import took 0.024845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/BlueReaper/Idle.png
+  artifactKey: Guid(b3696e02d63c0bf4ea6e7100d444274f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/BlueReaper/Idle.png using Guid(b3696e02d63c0bf4ea6e7100d444274f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8bf6d8af320cde334ea1de066416f2f') in 0.014632 seconds
+  Import took 0.017631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.159861 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/Goblin/goblin_death_anim_strip_6.png
+  artifactKey: Guid(4720712663e787b48933fd947f2aeb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/Goblin/goblin_death_anim_strip_6.png using Guid(4720712663e787b48933fd947f2aeb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85589579f2725dcf3afa7a1f362f51d9') in 0.015523 seconds
+  Import took 0.018445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000687 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/Goblin/goblin_death_anim_strip_6.png
+  artifactKey: Guid(4720712663e787b48933fd947f2aeb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/Goblin/goblin_death_anim_strip_6.png using Guid(4720712663e787b48933fd947f2aeb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85589579f2725dcf3afa7a1f362f51d9') in 0.012561 seconds
+  Import took 0.015436 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001889 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.732 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1861 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2435.
+Total: 2.471900 ms (FindLiveObjects: 0.342400 ms CreateObjectMapping: 0.068200 ms MarkObjects: 2.043300 ms  DeleteObjects: 0.017000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.520775 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/Goblin/goblin_death_anim_strip_6.png
+  artifactKey: Guid(4720712663e787b48933fd947f2aeb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/Goblin/goblin_death_anim_strip_6.png using Guid(4720712663e787b48933fd947f2aeb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d5a4751e49bf73fe8d674f34a434c3d') in 0.047104 seconds
+  Import took 0.050447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098989 seconds.
+  path: Assets/Art/Enemies/Overworld enemies/Goblin/goblin_death_anim_strip_6.png
+  artifactKey: Guid(4720712663e787b48933fd947f2aeb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemies/Overworld enemies/Goblin/goblin_death_anim_strip_6.png using Guid(4720712663e787b48933fd947f2aeb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d5a4751e49bf73fe8d674f34a434c3d') in 0.012696 seconds
+  Import took 0.015793 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001536 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.740 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1861 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2439.
+Total: 1.816800 ms (FindLiveObjects: 0.172100 ms CreateObjectMapping: 0.064600 ms MarkObjects: 1.564300 ms  DeleteObjects: 0.014800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001402 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.791 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1861 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2442.
+Total: 1.893600 ms (FindLiveObjects: 0.239900 ms CreateObjectMapping: 0.083600 ms MarkObjects: 1.555100 ms  DeleteObjects: 0.013900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001752 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.744 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1861 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2445.
+Total: 1.948800 ms (FindLiveObjects: 0.183900 ms CreateObjectMapping: 0.061300 ms MarkObjects: 1.684200 ms  DeleteObjects: 0.018200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
