@@ -16,13 +16,15 @@ git clone https://github.com/KevNguyen62/CMPE-195-2D-Platformer.git
 4. Go to the Scenes folder, click on Level2.0, and click Play 
 
 Special Thanks to the Game Testers:
-bunson
-iScammed
-SpencerK
-Habib aka Hababe
-jackychowder
-jehff
-prakeet
-Some1
-Tigerclaw
-TheBigSpam
+1. bunson
+2. iScammed
+3. SpencerK
+4. Habib aka Hababe
+5. jackychowder
+6. jehff
+7. prakeet
+8. Some1
+9. Tigerclaw
+10. TheBigSpam
+
+
