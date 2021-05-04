@@ -11,4 +11,12 @@ public class PlayerPosition : MonoBehaviour
         gameMaster = GameObject.FindGameObjectWithTag("GameMaster").GetComponent<GameMaster>();
         transform.position = gameMaster.lastCheckPointPosition;
     }
+
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
+    }
 }

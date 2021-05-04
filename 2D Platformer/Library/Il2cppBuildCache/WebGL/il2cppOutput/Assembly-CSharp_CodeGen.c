@@ -234,27 +234,29 @@ extern void GameMaster_Awake_m01A0BBF85D2201337C50604F7463E7C5CF4FE70C (void);
 extern void GameMaster__ctor_m58B1D49103D1BA8FE4D6F77F44B437041AD90FED (void);
 // 0x0000006F System.Void PlayerPosition::Start()
 extern void PlayerPosition_Start_mD1FE6300CE255A402A04DF2DA9F66DF4FA0AF251 (void);
-// 0x00000070 System.Void PlayerPosition::.ctor()
+// 0x00000070 System.Void PlayerPosition::Update()
+extern void PlayerPosition_Update_m12E2BD6E303A9B77ABCF461A1AAF068D536695A7 (void);
+// 0x00000071 System.Void PlayerPosition::.ctor()
 extern void PlayerPosition__ctor_m571973EF37FEFCF11519854C14D464C32588BFE0 (void);
-// 0x00000071 System.Void PortalTeleporter::OnTriggerEnter2D(UnityEngine.Collider2D)
+// 0x00000072 System.Void PortalTeleporter::OnTriggerEnter2D(UnityEngine.Collider2D)
 extern void PortalTeleporter_OnTriggerEnter2D_m839961C89FD88D77E7C8C56A4A3CF45EA53324C1 (void);
-// 0x00000072 System.Collections.IEnumerator PortalTeleporter::Teleport()
+// 0x00000073 System.Collections.IEnumerator PortalTeleporter::Teleport()
 extern void PortalTeleporter_Teleport_m3FCB8AF002D4671E162AAD7BC97EB4A72630BF05 (void);
-// 0x00000073 System.Void PortalTeleporter::.ctor()
+// 0x00000074 System.Void PortalTeleporter::.ctor()
 extern void PortalTeleporter__ctor_mE468E6D470B681FF6C4E9E03936B40DE6B268B93 (void);
-// 0x00000074 System.Void PortalTeleporter/<Teleport>d__4::.ctor(System.Int32)
+// 0x00000075 System.Void PortalTeleporter/<Teleport>d__4::.ctor(System.Int32)
 extern void U3CTeleportU3Ed__4__ctor_mEC450A87698E50BF7DA59539DFF0AD4E7A02A2BC (void);
-// 0x00000075 System.Void PortalTeleporter/<Teleport>d__4::System.IDisposable.Dispose()
+// 0x00000076 System.Void PortalTeleporter/<Teleport>d__4::System.IDisposable.Dispose()
 extern void U3CTeleportU3Ed__4_System_IDisposable_Dispose_m20C98E698114CBF33CAC798565CE2D08D1BE6345 (void);
-// 0x00000076 System.Boolean PortalTeleporter/<Teleport>d__4::MoveNext()
+// 0x00000077 System.Boolean PortalTeleporter/<Teleport>d__4::MoveNext()
 extern void U3CTeleportU3Ed__4_MoveNext_m4B770F825F0422CACA9CCF8F9EFA37FD1FD7F45A (void);
-// 0x00000077 System.Object PortalTeleporter/<Teleport>d__4::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x00000078 System.Object PortalTeleporter/<Teleport>d__4::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CTeleportU3Ed__4_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m3D8CEA735BA9DD7CCFACD3B02B0E77306EA85ED4 (void);
-// 0x00000078 System.Void PortalTeleporter/<Teleport>d__4::System.Collections.IEnumerator.Reset()
+// 0x00000079 System.Void PortalTeleporter/<Teleport>d__4::System.Collections.IEnumerator.Reset()
 extern void U3CTeleportU3Ed__4_System_Collections_IEnumerator_Reset_m23C01FEEF777917E3BC021F9500CD8066D631ED6 (void);
-// 0x00000079 System.Object PortalTeleporter/<Teleport>d__4::System.Collections.IEnumerator.get_Current()
+// 0x0000007A System.Object PortalTeleporter/<Teleport>d__4::System.Collections.IEnumerator.get_Current()
 extern void U3CTeleportU3Ed__4_System_Collections_IEnumerator_get_Current_m90C137DB5169A815734284FD852350FC116B8561 (void);
-static Il2CppMethodPointer s_methodPointers[121] = 
+static Il2CppMethodPointer s_methodPointers[122] = 
 {
 	BlueReaperBehavior_OnStateEnter_m40D8EC19CB1E15F6D289774E9586C625CFE3D232,
 	BlueReaperBehavior_OnStateUpdate_mCD8F068FB2F90F81E46EE7BC6A92BB5BDB5FDB6E,
@@ -367,6 +369,7 @@ static Il2CppMethodPointer s_methodPointers[121] =
 	GameMaster_Awake_m01A0BBF85D2201337C50604F7463E7C5CF4FE70C,
 	GameMaster__ctor_m58B1D49103D1BA8FE4D6F77F44B437041AD90FED,
 	PlayerPosition_Start_mD1FE6300CE255A402A04DF2DA9F66DF4FA0AF251,
+	PlayerPosition_Update_m12E2BD6E303A9B77ABCF461A1AAF068D536695A7,
 	PlayerPosition__ctor_m571973EF37FEFCF11519854C14D464C32588BFE0,
 	PortalTeleporter_OnTriggerEnter2D_m839961C89FD88D77E7C8C56A4A3CF45EA53324C1,
 	PortalTeleporter_Teleport_m3FCB8AF002D4671E162AAD7BC97EB4A72630BF05,
@@ -378,7 +381,7 @@ static Il2CppMethodPointer s_methodPointers[121] =
 	U3CTeleportU3Ed__4_System_Collections_IEnumerator_Reset_m23C01FEEF777917E3BC021F9500CD8066D631ED6,
 	U3CTeleportU3Ed__4_System_Collections_IEnumerator_get_Current_m90C137DB5169A815734284FD852350FC116B8561,
 };
-static const int32_t s_InvokerIndices[121] = 
+static const int32_t s_InvokerIndices[122] = 
 {
 	471,
 	471,
@@ -492,6 +495,7 @@ static const int32_t s_InvokerIndices[121] =
 	1486,
 	1486,
 	1486,
+	1486,
 	1245,
 	1444,
 	1486,
@@ -507,7 +511,7 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	121,
+	122,
 	s_methodPointers,
 	0,
 	NULL,

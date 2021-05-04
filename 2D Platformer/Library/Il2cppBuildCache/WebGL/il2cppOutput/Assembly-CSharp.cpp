@@ -5322,9 +5322,9 @@ IL_0009:
 		int32_t L_1 = __this->get_health_4();
 		int32_t L_2 = ___damage0;
 		__this->set_health_4(((int32_t)il2cpp_codegen_subtract((int32_t)L_1, (int32_t)L_2)));
-		// if (health <= 33)
+		// if (health <= 40)
 		int32_t L_3 = __this->get_health_4();
-		if ((((int32_t)L_3) > ((int32_t)((int32_t)33))))
+		if ((((int32_t)L_3) > ((int32_t)((int32_t)40))))
 		{
 			goto IL_0032;
 		}
@@ -6441,6 +6441,43 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerPosition_Start_mD1FE6300CE255A402A
 		Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  L_5;
 		L_5 = Vector2_op_Implicit_m4FA146E613DBFE6C1C4B0E9B461D622E6F2FC294_inline(L_4, /*hidden argument*/NULL);
 		Transform_set_position_mB169E52D57EEAC1E3F22C5395968714E4F00AC91(L_2, L_5, /*hidden argument*/NULL);
+		// }
+		return;
+	}
+}
+// System.Void PlayerPosition::Update()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerPosition_Update_m12E2BD6E303A9B77ABCF461A1AAF068D536695A7 (PlayerPosition_t9D9F6DA5997202DDAB30171D40EB758B0D8161B8 * __this, const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SceneManager_tEC9D10ECC0377F8AE5AEEB5A789FFD24364440FA_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Scene_t5495AD2FDC587DB2E94D9BDE2B85868BFB9A92EE  V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		// if (Input.GetKeyDown(KeyCode.R))
+		bool L_0;
+		L_0 = Input_GetKeyDown_m476116696E71771641BBECBAB1A4C55E69018220(((int32_t)114), /*hidden argument*/NULL);
+		if (!L_0)
+		{
+			goto IL_001b;
+		}
+	}
+	{
+		// SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+		IL2CPP_RUNTIME_CLASS_INIT(SceneManager_tEC9D10ECC0377F8AE5AEEB5A789FFD24364440FA_il2cpp_TypeInfo_var);
+		Scene_t5495AD2FDC587DB2E94D9BDE2B85868BFB9A92EE  L_1;
+		L_1 = SceneManager_GetActiveScene_mB9A5037FFB576B2432D0BFEF6A161B7C4C1921A4(/*hidden argument*/NULL);
+		V_0 = L_1;
+		int32_t L_2;
+		L_2 = Scene_get_buildIndex_mE32CE766EA0790E4636A351BA353A7FD71A11DA4((Scene_t5495AD2FDC587DB2E94D9BDE2B85868BFB9A92EE *)(&V_0), /*hidden argument*/NULL);
+		SceneManager_LoadScene_m5550E6368A6D0E37DACEDA3C5E4BA331836BC3C5(L_2, /*hidden argument*/NULL);
+	}
+
+IL_001b:
+	{
 		// }
 		return;
 	}
