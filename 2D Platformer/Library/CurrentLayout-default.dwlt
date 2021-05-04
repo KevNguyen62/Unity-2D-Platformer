@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 473, y: 271}
   m_MaxSize: {x: 14003, y: 10021}
   vertical: 0
-  controlID: 117
+  controlID: 120
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -99,7 +99,7 @@ MonoBehaviour:
   m_MinSize: {x: 749, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 157
+  controlID: 1021
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -277,7 +277,7 @@ MonoBehaviour:
   m_MinSize: {x: 473, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 1
-  controlID: 158
+  controlID: 1022
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -302,7 +302,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 159
+  controlID: 1023
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -330,7 +330,7 @@ MonoBehaviour:
   - {fileID: 20}
   - {fileID: 15}
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 2
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -405,6 +405,7 @@ MonoBehaviour:
     - {fileID: -4045494158663024364, guid: 49f59083eca0ea348b5737153b2c92e9, type: 2}
     - {fileID: -6999835701267419165, guid: 0105adf641903aa43af3cb3f7eac7051, type: 2}
     - {fileID: 2096711639190946103, guid: a3e2fb855fdff5940be29cb17eeaca53, type: 2}
+    - {fileID: 8253135445107052817, guid: dc7db0cf73e7f1a499cadb43ed1d2dbf, type: 2}
     m_ValueSerializationHelper:
     - e00: 0.8164948
       e01: 0
@@ -470,14 +471,14 @@ MonoBehaviour:
       e31: 0
       e32: 0
       e33: 1
-    - e00: 0.19074339
+    - e00: 0.23161699
       e01: 0
       e02: 0
-      e03: 178.6704
+      e03: 224.96834
       e10: 0
-      e11: 0.19074339
+      e11: 0.23161699
       e12: 0
-      e13: 327.00244
+      e13: 210.30417
       e20: 0
       e21: 0
       e22: 1
@@ -630,11 +631,27 @@ MonoBehaviour:
       e31: 0
       e32: 0
       e33: 1
+    - e00: 0.8318662
+      e01: 0
+      e02: 0
+      e03: 163.18149
+      e10: 0
+      e11: 0.8318662
+      e12: 0
+      e13: 90.68699
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: 778ea2043126ca848b66a171f9f7ca8d,
+  m_AnimatorController: {fileID: 9100000, guid: 3fe8720a57bb23845a36c80d9f5feb12,
     type: 2}
   m_BreadCrumbs:
-  - m_Target: {fileID: -6739144210673866604, guid: 778ea2043126ca848b66a171f9f7ca8d,
+  - m_Target: {fileID: -9036269662456158879, guid: 3fe8720a57bb23845a36c80d9f5feb12,
       type: 2}
     m_ScrollPosition: {x: 0, y: 0}
   stateMachineGraph: {fileID: 0}
@@ -687,22 +704,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Sounds
+    - Assets/Scripts/Teleport
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Sounds
+  - Assets/Scripts/Teleport
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\nguye\CMPE-195-2D-Platformer\2D Platformer
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 461}
-    m_SelectedIDs: c2830000
-    m_LastClickedID: 33730
-    m_ExpandedIDs: 0000000086830000888300008a8300008c8300008e83000090830000928300009483000096830000988300009a8300009c8300009e830000a0830000a2830000a4830000c083000000ca9a3b
+    scrollPos: {x: 0, y: 509}
+    m_SelectedIDs: a4820000
+    m_LastClickedID: 33444
+    m_ExpandedIDs: 000000006a8200006c8200006e82000070820000728200007482000076820000788200007a8200007c8200007e82000080820000828200008482000086820000a282000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -730,7 +747,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000086830000888300008a8300008c8300008e83000090830000928300009483000096830000988300009a8300009c8300009e830000a0830000a2830000a4830000
+    m_ExpandedIDs: 000000006a8200006c8200006e82000070820000728200007482000076820000788200007a8200007c8200007e82000080820000828200008482000086820000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -758,7 +775,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000b0cb00000eca0000fcc9000082fb030064d3000066d30000e4d40000e09e0700c2d70000000000004cd10000d83c0000884600004c450200506d00008c6d00004c530000
+    m_ExpandedInstanceIDs: c6230000b0cb00000eca0000fcc9000082fb030064d3000066d30000e4d40000e09e0700c2d70000000000004cd10000d83c0000884600004c450200506d00008c6d00004c5300008a8a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -855,18 +872,18 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 18d3ffff3ed3ffff4cd4ffff7ad9ffffa0d9ffff76dbffff88ebffffc2ebffff98edffff32f3ffff6cf3ffff7af4fffff6f5ffff30f6ffff06f8ffff40fbffffd0340100043f010092aa010020ae01003ab1010026b2010074b2010084b60100
+      m_ExpandedIDs: d6f1fffffcf1ffffb2f3ffff40fbffffde430000f8490000524b00006e4c0000064d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: PurplePortal
-        m_OriginalName: PurplePortal
+        m_Name: Checkpoint (16)
+        m_OriginalName: Checkpoint (16)
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 111142
+        m_UserData: 19734
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -916,9 +933,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 370.3409, y: -179.58406, z: -17.989468}
+    m_Target: {x: 239.54591, y: -242.25894, z: -81.78923}
     speed: 2
-    m_Value: {x: 370.3409, y: -179.58406, z: -17.989468}
+    m_Value: {x: 239.54591, y: -242.25894, z: -81.78923}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -969,9 +986,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 156.50716
+    m_Target: 65.30832
     speed: 2
-    m_Value: 156.50716
+    m_Value: 65.30832
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1063,23 +1080,23 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
+      y: 0
       width: 1246
-      height: 621
-    m_Scale: {x: 0.80859375, y: 0.80859375}
-    m_Translation: {x: 623, y: 310.5}
+      height: 642
+    m_Scale: {x: 0.8359375, y: 0.8359375}
+    m_Translation: {x: 623, y: 321}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -770.47345
+      x: -745.27106
       y: -384
-      width: 1540.9469
+      width: 1490.5421
       height: 768
     m_MinimalGUI: 1
-  m_defaultScale: 0.80859375
+  m_defaultScale: 0.8359375
   m_LastWindowPixelSize: {x: 1246, y: 642}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
