@@ -1,11 +1,11 @@
 # CMPE-195-2D-Platformer
 
 Getting Started:
-To start, download the latest version of Unity Hub from the link below.
+1.To start, download the latest version of Unity Hub from the link below.
 https://unity3d.com/get-unity/download
-
-When installing Unity Hub, be sure to install the offical release of Unity 2019.4.19f1 
-
+2. Open Unity Hub after installation.
+3. Click on Installs and press Add
+4. Select Unity 2020.3.6f1 and press download
 
 Installation:
 1. Clone the repo
