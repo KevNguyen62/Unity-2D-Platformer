@@ -1,5 +1,7 @@
 # CMPE-195-2D-Platformer
 
+To Play Our Game: https://ggmist.itch.io/leftfingergobrrrrrr
+
 Getting Started:
 
    1.To start, download the latest version of Unity Hub from this link (https://unity3d.com/get-unity/download)
