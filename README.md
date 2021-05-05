@@ -2,9 +2,7 @@
 
 Getting Started:
 
-1.To start, download the latest version of Unity Hub from the link below.
-https://unity3d.com/get-unity/download
-
+1.To start, download the latest version of Unity Hub from this link (https://unity3d.com/get-unity/download).
 2. Open Unity Hub after installation.
 3. Click on Installs and press Add
 4. Select Unity 2020.3.6f1 and press download
