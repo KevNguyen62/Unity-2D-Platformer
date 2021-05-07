@@ -4,9 +4,6 @@ using UnityEngine;
 
 public class Weapon : MonoBehaviour
 {
-
-    
-
     //adjusts the angle of the weapon manually to the cursor. 
     public float offset = -180f;
     public Transform shotPoint;
@@ -18,19 +15,15 @@ public class Weapon : MonoBehaviour
     //flipping weapon
     private SpriteRenderer spriteRender;
 
-
-
     private void Start()
     {
         spriteRender = GetComponent<SpriteRenderer>();
     }
 
-
-
     // Update is called once per frame
     void Update()
     {
-        //calculat the angle of the weapon to the mouse
+        //calculate the angle of the weapon to the mouse
 
         //calculate the direction of the mouse cursor to the weapon
         Vector2 difference = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
@@ -41,7 +34,7 @@ public class Weapon : MonoBehaviour
         //set weapon rotation 
         transform.rotation = Quaternion.Euler(0f, 0f, rotZ + offset);
 
-        if(rotZ < 89 && rotZ > -89)
+        if (rotZ < 89 && rotZ > -89)
         {
             Debug.Log("Facing Left");
             spriteRender.flipY = true;
@@ -52,13 +45,6 @@ public class Weapon : MonoBehaviour
             spriteRender.flipY = false;
 
         }
-
-
-
-
-
-
-
         if (timeBtwShots <= 0)
         {
             //firing projectile
@@ -72,8 +58,5 @@ public class Weapon : MonoBehaviour
         {
             timeBtwShots -= Time.deltaTime;
         }
-        
-
-      
     }
 }

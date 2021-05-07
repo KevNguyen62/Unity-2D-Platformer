@@ -7675,7 +7675,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Weapon_Update_m03BCDE1EF0751A0F043AE300F
 		Quaternion_t6D28618CF65156D4A0AD747370DDFD0C514A31B4  L_15;
 		L_15 = Quaternion_Euler_m37BF99FFFA09F4B3F83DC066641B82C59B19A9C3((0.0f), (0.0f), ((float)il2cpp_codegen_add((float)L_13, (float)L_14)), /*hidden argument*/NULL);
 		Transform_set_rotation_m1B5F3D4CE984AB31254615C9C71B0E54978583B4(L_12, L_15, /*hidden argument*/NULL);
-		// if(rotZ < 89 && rotZ > -89)
+		// if (rotZ < 89 && rotZ > -89)
 		float L_16 = V_1;
 		if ((!(((float)L_16) < ((float)(89.0f)))))
 		{
